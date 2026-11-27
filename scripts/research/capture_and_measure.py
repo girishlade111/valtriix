@@ -50,6 +50,9 @@ async def main():
         page = await ctx.new_page()
 
         for path, name in KEY_ROUTES:
+            out_file = SS_DIR / "desktop" / f"{name}.png"
+            if out_file.exists():
+                continue
             print(f"[desktop 1440] {path}", flush=True)
             await capture_route(page, path, name, "desktop", full_page=True)
 
@@ -79,13 +82,15 @@ async def main():
         # Open All Pages dropdown
         dd_dir = SS_DIR / "dropdowns"
         dd_dir.mkdir(parents=True, exist_ok=True)
-        toggle = page.locator(".w-dropdown-toggle").first
+        toggle = page.locator(".w-dropdown-toggle:visible").first
         if await toggle.count() > 0:
             await toggle.hover()
             await asyncio.sleep(0.4)
             await toggle.click()
             await asyncio.sleep(0.5)
             await page.screenshot(path=str(dd_dir / "all_pages_open_home.png"), full_page=False)
+            await page.mouse.click(10, 10)
+            await asyncio.sleep(0.3)
 
         # Extract geometry of all sections on home
         home_geom = await page.evaluate("""() => {
@@ -113,10 +118,12 @@ async def main():
             return out;
         }""")
 
-        # Case study hover capture
+        # Case study hover capture (in main page, outside nav)
         hover_dir = SS_DIR / "hover"
         hover_dir.mkdir(parents=True, exist_ok=True)
-        cs_card = page.locator(".case-study-item").first
+        cs_card = page.locator("section .case-study-item:visible, .case-study-section .case-study-item:visible, main .case-study-item:visible").first
+        if await cs_card.count() == 0:
+            cs_card = page.locator(".case-study-item:visible").last
         if await cs_card.count() > 0:
             await cs_card.scroll_into_view_if_needed()
             await asyncio.sleep(0.4)
@@ -127,7 +134,7 @@ async def main():
         # Audience tabs capture
         tabs_dir = SS_DIR / "tabs"
         tabs_dir.mkdir(parents=True, exist_ok=True)
-        tabs = page.locator(".w-tab-link")
+        tabs = page.locator(".w-tab-link:visible")
         tab_count = await tabs.count()
         for ti in range(min(tab_count, 5)):
             tb = tabs.nth(ti)
