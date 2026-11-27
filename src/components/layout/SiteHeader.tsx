@@ -15,18 +15,27 @@ interface SiteHeaderProps {
 
 export function SiteHeader({ variant = "light" }: SiteHeaderProps) {
   const pathname = usePathname() || "/";
-  const [dropdownOpen, setDropdownOpen] = useState(false);
-  const [mobileOpen, setMobileOpen] = useState(false);
+  const [dropdownPath, setDropdownPath] = useState<string | null>(null);
+  const [mobilePath, setMobilePath] = useState<string | null>(null);
   const [mobileSubOpen, setMobileSubOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
   const closeTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  useEffect(() => {
-    setDropdownOpen(false);
-    setMobileOpen(false);
-    setMobileSubOpen(false);
-  }, [pathname]);
+  const dropdownOpen = dropdownPath === pathname;
+  const mobileOpen = mobilePath === pathname;
+  const setDropdownOpen = (open: boolean | ((prev: boolean) => boolean)) => {
+    setDropdownPath((prev) => {
+      const next = typeof open === "function" ? open(prev === pathname) : open;
+      return next ? pathname : null;
+    });
+  };
+  const setMobileOpen = (open: boolean | ((prev: boolean) => boolean)) => {
+    setMobilePath((prev) => {
+      const next = typeof open === "function" ? open(prev === pathname) : open;
+      return next ? pathname : null;
+    });
+  };
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
