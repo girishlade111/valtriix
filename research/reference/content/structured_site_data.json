@@ -1,0 +1,3738 @@
+{
+  "home": {
+    "hero_text": [
+      "YOUR PARTNER IN WEALTH",
+      "Discover a better way to invest",
+      "Smarter financial guidance",
+      "AI-powered",
+      "by intelligent",
+      "Invest smarter with tailored strategies and expert guidance designed grow your wealth and achieve your financial goals",
+      "Start Your Journey Start Your Journey"
+    ],
+    "home_services": [
+      {
+        "href": "/services/wealth-management",
+        "title": "Long-Term Wealth Preservation Strategies",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4573cd9c97bfeac3c326a_service-2.webp"
+      },
+      {
+        "href": "/services/financial-consulting",
+        "title": "Personalized Financial Advisory Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4574f1a9184230f6da535_service-3.webp"
+      },
+      {
+        "href": "/services/investment-planning",
+        "title": "Comprehensive Financial Risk Management",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4575f6296a921da20bbee_service-4.webp"
+      },
+      {
+        "href": "/services/portfolio-management",
+        "title": "Strategic Portfolio Management Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4576dcbbad805c51aa510_service-5.webp"
+      },
+      {
+        "href": "/services/wealth-management",
+        "title": "Long-Term Wealth Preservation Strategies",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4573cd9c97bfeac3c326a_service-2.webp"
+      },
+      {
+        "href": "/services/financial-consulting",
+        "title": "Personalized Financial Advisory Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4574f1a9184230f6da535_service-3.webp"
+      }
+    ],
+    "approach": [
+      "Research-Driven Decisions | We use careful research and market insights to guide smarter investment decisions",
+      "Research-Driven Decisions",
+      "We use careful research and market insights to guide smarter investment decisions",
+      "Personalized Strategies | Receive financial recommendations tailored to your goals needs and priorities.",
+      "Personalized Strategies",
+      "Receive financial recommendations tailored to your goals needs and priorities.",
+      "Disciplined Risk Management | Explore personalized financial solutions for your goals.",
+      "Disciplined Risk Management",
+      "Explore personalized financial solutions for your goals.",
+      "Diversified Portfolios | Explore personalized financial solutions for your goals.",
+      "Diversified Portfolios",
+      "Explore personalized financial solutions for your goals."
+    ],
+    "stats": [],
+    "home_case_studies": [
+      {
+        "href": "/case-study/helping-businesses-improve-financial-performance",
+        "text": "Clear financial guidance | Read | | Story | | Read | | Story |",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9193e0c587594cdb13f8f_brand-logo-3.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9194249e2a1f89dbb48d5_case-study-3.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9193e0c587594cdb13f8f_brand-logo-3.svg"
+        ]
+      },
+      {
+        "href": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+        "text": "Clear financial guidance | Read | | Story | | Read | | Story |",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae95f55b888efcb5efab46f_brand-logo-6.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae918f0920518327cede457_case-study-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae95f55b888efcb5efab46f_brand-logo-6.svg"
+        ]
+      },
+      {
+        "href": "/case-study/helping-clients-grow-their-wealth",
+        "text": "Clear financial guidance | Read | | Story | | Read | | Story |",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae7090f42eb2faf11714011_brand-logo-1.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae709146c066111f02695ca_case-study-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae7090f42eb2faf11714011_brand-logo-1.svg"
+        ]
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Kim Tio, CEO and Co-Founder | “Valtriix brings clarity to our financial decisions with thoughtful guidance and a focus on sustainable growth.”",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d6605e517a52d64345e_brand-logo-1.svg"
+        ]
+      },
+      {
+        "text": "Sarah Mitchell , CEO & Founder | “Valtriix makes financial planning easier with personalized insights, reliable support, and a clear vision for the future.”",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d68795818c6a43fdedd_brand-logo-3.svg"
+        ]
+      },
+      {
+        "text": "James Anderson, Managing Director | “With Valtriix, we gain a better understanding of our financial goals and a smarter approach to building lasting wealth.”",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d665a05c49caafe44d9_brand-logo-4.svg"
+        ]
+      },
+      {
+        "text": "Emily Carter, Chief Financial Officer | “Valtriix combines trusted expertise with practical strategies to help us navigate financial decisions with confidence.”",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d667956ab381daed829_brand-logo-6.svg"
+        ]
+      }
+    ],
+    "audiences": [
+      {
+        "tab": "Research-Driven Decisions We use careful research and market insights to guide smarter investment decisions",
+        "content": "",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4cfadf02060279c30576f_img-1.webp"
+        ]
+      },
+      {
+        "tab": "Personalized Strategies Receive financial recommendations tailored to your goals needs and priorities.",
+        "content": "",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae59511cec705122a634c4f_img-2.webp"
+        ]
+      },
+      {
+        "tab": "Disciplined Risk Management Explore personalized financial solutions for your goals.",
+        "content": "",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9669e1607d1aeea85ad58_service-8.webp"
+        ]
+      },
+      {
+        "tab": "Diversified Portfolios Explore personalized financial solutions for your goals.",
+        "content": "",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9669eb2c3557bbc17fb85_service-9.webp"
+        ]
+      },
+      {
+        "tab": "Business Owners",
+        "content": "Business Owners | We help business owners make confident financial decisions, manage their wealth, and plan for long-term success. From managing business assets to preparing for future opportunities",
+        "imgs": []
+      },
+      {
+        "tab": "Entrepreneurs",
+        "content": "Entrepreneurs | We help entrepreneurs make confident financial decisions, manage their wealth, and plan for long-term success. From growing business assets to preparing for future opportunities",
+        "imgs": []
+      },
+      {
+        "tab": "Net Worth Individuals",
+        "content": "Net Worth Individuals | We help individuals make confident financial decisions, manage their wealth, and plan for long-term success. From protecting personal assets to preparing for future opportunities",
+        "imgs": []
+      }
+    ],
+    "process": [
+      "01 | Set Goals | Let's talk about your goals | We start by understanding your financial goals, priorities, and future plans to create a strategy that truly fits your needs",
+      "02 | Create Strategy | Let's build your investment plan | We create a personalized investment plan around your goals, risk tolerance, and future ambitions",
+      "03 | Grow With Confidence | Growing your wealth, together | We work alongside you to build lasting wealth through personalized strategies, with expert guidance"
+    ]
+  },
+  "services": {
+    "listing": [
+      {
+        "href": "/services/asset-management",
+        "title": "Professional Asset Management Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae45620ca4477d8c415f0f5_service-1.webp"
+      },
+      {
+        "href": "/services/wealth-management",
+        "title": "Long-Term Wealth Preservation Strategies",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4573cd9c97bfeac3c326a_service-2.webp"
+      },
+      {
+        "href": "/services/financial-consulting",
+        "title": "Personalized Financial Advisory Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4574f1a9184230f6da535_service-3.webp"
+      },
+      {
+        "href": "/services/investment-planning",
+        "title": "Comprehensive Financial Risk Management",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4575f6296a921da20bbee_service-4.webp"
+      },
+      {
+        "href": "/services/portfolio-management",
+        "title": "Strategic Portfolio Management Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4576dcbbad805c51aa510_service-5.webp"
+      },
+      {
+        "href": "/services/risk-management",
+        "title": "Strategic Investment Planning Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae45783662d53e0bb108212_service-6.webp"
+      },
+      {
+        "href": "/services/financial-advisory",
+        "title": "Expert Financial Consulting Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae457ba1a9184230f6ddb77_service-7.webp"
+      },
+      {
+        "href": "/services/wealth-preservation",
+        "title": "Personalized Wealth Management Services",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae45620ca4477d8c415f0f5_service-1.webp"
+      },
+      {
+        "href": "/services/family-wealth-management",
+        "title": "Advanced Asset Management Solutions",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae457e57b08c7977c6cccda_service-9.webp"
+      }
+    ],
+    "details": {
+      "asset-management": {
+        "slug": "asset-management",
+        "title": "Professional Asset Management Services",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "We manage your assets with a thoughtful strategy designed to balance risk build long-term value, and grow your wealth with confidence",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "family-wealth-management": {
+        "slug": "family-wealth-management",
+        "title": "Advanced Asset Management Solutions",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Bring your family's financial goals together with coordinated planning for investments, asset protection, and the transfer of wealth across generations.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "financial-advisory": {
+        "slug": "financial-advisory",
+        "title": "Expert Financial Consulting Services",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Receive personalized financial advice to navigate important decisions, organize your priorities, and build a clear path toward your future financial goals.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "financial-consulting": {
+        "slug": "financial-consulting",
+        "title": "Personalized Financial Advisory Services",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Get clear financial guidance tailored to your needs, with practical insights to improve decisions, plan ahead, and make the most of your resources.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "investment-planning": {
+        "slug": "investment-planning",
+        "title": "Comprehensive Financial Risk Management",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Create an investment plan aligned with your goals, time horizon, and risk tolerance, helping you make informed choices for long-term financial growth.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "portfolio-management": {
+        "slug": "portfolio-management",
+        "title": "Strategic Portfolio Management Services",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "We build and monitor diversified portfolios around your objectives, adjusting investment strategies as markets change to keep your financial goals on track.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "risk-management": {
+        "slug": "risk-management",
+        "title": "Strategic Investment Planning Services",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Identify potential financial risks and develop practical strategies to protect your assets, manage uncertainty, and support lasting financial stability.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "wealth-management": {
+        "slug": "wealth-management",
+        "title": "Long-Term Wealth Preservation Strategies",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Build a personalized wealth strategy that aligns with your financial goals, supports informed decisions, and helps preserve and grow your assets over time.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      },
+      "wealth-preservation": {
+        "slug": "wealth-preservation",
+        "title": "Personalized Wealth Management Services",
+        "heroImg": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "paragraphs": [
+          "Protect the wealth you have built with thoughtful planning, risk-aware strategies, and a long-term approach to preserving assets for the future.",
+          "At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence",
+          "Every financial journey is different. We develop investment strategies around your personal goals financial priorities",
+          "Managing investments takes time, research, and a clear direction. We help you build and manage a well-structured portfolio designed",
+          "Every investment involves some level of risk. We help you understand potential challenges, evaluate investment choices",
+          "Your financial strategy should evolve as your needs change. We review portfolio performance, assess market developments",
+          "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+          "Countries Served",
+          "Assets Management",
+          "How can Valtriix help me grow my wealth?",
+          "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+          "How much do I need to start investing?",
+          "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+          "How do you create a financial plan?",
+          "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,"
+        ]
+      }
+    }
+  },
+  "case_studies": {
+    "listing": [
+      {
+        "href": "/case-study/helping-clients-grow-their-wealth",
+        "text": "",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae709146c066111f02695ca_case-study-1.webp"
+      },
+      {
+        "href": "/case-study/helping-clients-grow-their-wealth",
+        "text": "Helping clients grow their wealth",
+        "img": null
+      },
+      {
+        "href": "/case-study/helping-clients-grow-their-wealth",
+        "text": "Read | | Full | | Case | | Study | Read | | Full | | Case | | Study",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4d17458eff11fa2ceb722_corner-down-right%202.svg"
+      },
+      {
+        "href": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+        "text": "",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae918f0920518327cede457_case-study-2.webp"
+      },
+      {
+        "href": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+        "text": "Building a Clear Strategy for Lasting Wealth",
+        "img": null
+      },
+      {
+        "href": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+        "text": "Read | | Full | | Case | | Study | Read | | Full | | Case | | Study",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4d17458eff11fa2ceb722_corner-down-right%202.svg"
+      },
+      {
+        "href": "/case-study/helping-businesses-improve-financial-performance",
+        "text": "",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9194249e2a1f89dbb48d5_case-study-3.webp"
+      },
+      {
+        "href": "/case-study/helping-businesses-improve-financial-performance",
+        "text": "Helping Businesses Improve Financial Performance",
+        "img": null
+      },
+      {
+        "href": "/case-study/helping-businesses-improve-financial-performance",
+        "text": "Read | | Full | | Case | | Study | Read | | Full | | Case | | Study",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4d17458eff11fa2ceb722_corner-down-right%202.svg"
+      },
+      {
+        "href": "/case-study/creating-smarter-investment-plans-for-families",
+        "text": "",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9196990a48dc125188294_case-study-4.webp"
+      },
+      {
+        "href": "/case-study/creating-smarter-investment-plans-for-families",
+        "text": "Creating Smarter Investment Plans for Families",
+        "img": null
+      },
+      {
+        "href": "/case-study/creating-smarter-investment-plans-for-families",
+        "text": "Read | | Full | | Case | | Study | Read | | Full | | Case | | Study",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4d17458eff11fa2ceb722_corner-down-right%202.svg"
+      }
+    ],
+    "details": {
+      "building-a-clear-strategy-for-lasting-wealth": {
+        "slug": "building-a-clear-strategy-for-lasting-wealth",
+        "title": "Building a Clear Strategy for Lasting Wealth",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae918f0920518327cede457_case-study-2.webp"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Building a Clear Strategy for Lasting Wealth",
+          "Client Overview",
+          "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+          "‍",
+          "The Challenge",
+          "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+          "‍",
+          "Our Approach",
+          "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+          "‍",
+          "The Results",
+          "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+          "‍",
+          "Key Results",
+          "32% — Portfolio growth over 3 years",
+          "6+ — Investment categories reviewed",
+          "3 Years — Long-term investment period",
+          "Quarterly — Portfolio performance reviews",
+          "“True financial success comes from making thoughtful decisions today while keeping tomorrow’s possibilities in mind. The right guidance makes every step more meaningful.”",
+          "Conclusion",
+          "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "creating-smarter-investment-plans-for-families": {
+        "slug": "creating-smarter-investment-plans-for-families",
+        "title": "Creating Smarter Investment Plans for Families",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9196990a48dc125188294_case-study-4.webp"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Creating Smarter Investment Plans for Families",
+          "Client Overview",
+          "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+          "‍",
+          "The Challenge",
+          "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+          "‍",
+          "Our Approach",
+          "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+          "‍",
+          "The Results",
+          "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+          "‍",
+          "Key Results",
+          "32% — Portfolio growth over 3 years",
+          "6+ — Investment categories reviewed",
+          "3 Years — Long-term investment period",
+          "Quarterly — Portfolio performance reviews",
+          "“Wealth is not built overnight. It takes patience, informed decisions, and a trusted partner who understands your vision and helps you move forward with confidence.”",
+          "Conclusion",
+          "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "helping-businesses-improve-financial-performance": {
+        "slug": "helping-businesses-improve-financial-performance",
+        "title": "Helping Businesses Improve Financial Performance",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9194249e2a1f89dbb48d5_case-study-3.webp"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Helping Businesses Improve Financial Performance",
+          "Client Overview",
+          "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+          "‍",
+          "The Challenge",
+          "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+          "‍",
+          "Our Approach",
+          "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+          "‍",
+          "The Results",
+          "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+          "‍",
+          "Key Results",
+          "32% — Portfolio growth over 3 years",
+          "6+ — Investment categories reviewed",
+          "3 Years — Long-term investment period",
+          "Quarterly — Portfolio performance reviews",
+          "“Every financial journey is different. Understanding individual goals and creating a strategy around them is what turns financial planning into lasting progress.”",
+          "Conclusion",
+          "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "helping-clients-grow-their-wealth": {
+        "slug": "helping-clients-grow-their-wealth",
+        "title": "Helping clients grow their wealth",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae709146c066111f02695ca_case-study-1.webp"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Helping clients grow their wealth",
+          "Client Overview",
+          "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+          "‍",
+          "The Challenge",
+          "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+          "‍",
+          "Our Approach",
+          "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+          "‍",
+          "The Results",
+          "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+          "‍",
+          "Key Results",
+          "32% — Portfolio growth over 3 years",
+          "6+ — Investment categories reviewed",
+          "3 Years — Long-term investment period",
+          "Quarterly — Portfolio performance reviews",
+          "“Building wealth is about more than numbers. It’s about understanding people, their ambitions, and the future they want to create. At Valtriix, we believe in building lasting relationships.”",
+          "Conclusion",
+          "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      }
+    }
+  },
+  "blogs": {
+    "listing_links": [
+      {
+        "href": "/blog/understanding-market-trends-before-you-invest",
+        "text": "Understanding market trends before you invest",
+        "img": null
+      },
+      {
+        "href": "/blog/understanding-market-trends-before-you-invest",
+        "text": "Read | | More | Read | | More",
+        "img": null
+      },
+      {
+        "href": "/blog/understanding-market-trends-before-you-invest",
+        "text": "",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae462aeb83cb5a78e863cf5_blog-1.webp"
+      },
+      {
+        "href": "/blog/making-better-financial-decisions-with-confidence",
+        "text": "Making better financial decisions with confidence | Investing | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465c0de3b227659af138a_blog-2.webp"
+      },
+      {
+        "href": "/blog/what-every-investor-should-know-about-market-trends",
+        "text": "What every investor should know about market trends | Market Insights | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465b8ca4477d8c41e4fa7_blog-3.webp"
+      },
+      {
+        "href": "/blog/common-investment-mistakes-and-how-to-avoid-them",
+        "text": "Common investment mistakes and how to avoid them | Risk Management | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465a2221bf9b41b2bd954_blog-4.webp"
+      },
+      {
+        "href": "/blog/5-investment-strategies-for-a-stronger-financial-future",
+        "text": "5 Investment strategies for a stronger financial future | Investing | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465f3e2515581d2fa638c_blog-5.webp"
+      },
+      {
+        "href": "/blog/why-diversification-matters-in-your-investment-portfolio",
+        "text": "Why diversification matters in your investment portfolio | Market Insights | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae466c8cca01f491913e1af_blog-6.webp"
+      },
+      {
+        "href": "/blog/making-smarter-financial-decisions-at-every-stage",
+        "text": "Making smarter financial decisions at every stage | Risk Management | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae46701e2515581d2fb2477_blog-7.webp"
+      },
+      {
+        "href": "/blog/how-business-owners-can-grow-their-wealth",
+        "text": "How business owners can grow their wealth | Investing | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae467222ead49f5450e615c_blog-8.webp"
+      },
+      {
+        "href": "/blog/navigating-market-uncertainty-with-a-clear-strategy",
+        "text": "Navigating market uncertainty with a clear strategy | Market Insights | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4675510319e067342c028_blog-9.webp"
+      },
+      {
+        "href": "/blog/the-power-of-starting-your-investment-journey-early",
+        "text": "The power of starting your investment journey early | Risk Management | October 30, 2026",
+        "img": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4678107bdd509b8482a2c_blog-10.webp"
+      }
+    ],
+    "details": {
+      "5-investment-strategies-for-a-stronger-financial-future": {
+        "slug": "5-investment-strategies-for-a-stronger-financial-future",
+        "title": "5 Investment strategies for a stronger financial future",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "5 Investment strategies for a stronger financial future",
+          "Daniel Brooks",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "common-investment-mistakes-and-how-to-avoid-them": {
+        "slug": "common-investment-mistakes-and-how-to-avoid-them",
+        "title": "Common investment mistakes and how to avoid them",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Common investment mistakes and how to avoid them",
+          "James Anderson",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "how-business-owners-can-grow-their-wealth": {
+        "slug": "how-business-owners-can-grow-their-wealth",
+        "title": "How business owners can grow their wealth",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "How business owners can grow their wealth",
+          "Charlotte Wilson",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "making-better-financial-decisions-with-confidence": {
+        "slug": "making-better-financial-decisions-with-confidence",
+        "title": "Making better financial decisions with confidence",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Making better financial decisions with confidence",
+          "Daniel Brooks",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "making-smarter-financial-decisions-at-every-stage": {
+        "slug": "making-smarter-financial-decisions-at-every-stage",
+        "title": "Making smarter financial decisions at every stage",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Making smarter financial decisions at every stage",
+          "Michael Turner",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "navigating-market-uncertainty-with-a-clear-strategy": {
+        "slug": "navigating-market-uncertainty-with-a-clear-strategy",
+        "title": "Navigating market uncertainty with a clear strategy",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Navigating market uncertainty with a clear strategy",
+          "Ethan Mitchell",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "the-power-of-starting-your-investment-journey-early": {
+        "slug": "the-power-of-starting-your-investment-journey-early",
+        "title": "The power of starting your investment journey early",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "The power of starting your investment journey early",
+          "Isabella Morgan",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "understanding-market-trends-before-you-invest": {
+        "slug": "understanding-market-trends-before-you-invest",
+        "title": "Understanding market trends before you invest",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Understanding market trends before you invest",
+          "Ralph Edwards",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "what-every-investor-should-know-about-market-trends": {
+        "slug": "what-every-investor-should-know-about-market-trends",
+        "title": "What every investor should know about market trends",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "What every investor should know about market trends",
+          "Emily Carter",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      },
+      "why-diversification-matters-in-your-investment-portfolio": {
+        "slug": "why-diversification-matters-in-your-investment-portfolio",
+        "title": "Why diversification matters in your investment portfolio",
+        "imgs": [
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+          "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg"
+        ],
+        "blocks": [
+          "All pages platform Homepage Company Service Service Details Contact resources Blog Blog Details Case Study Case Study Details Our Advisors legal Privacy policy Terms & Conditions Changelog License Instructions Styleguide 404 error Making your money work smarter A simple guide to growing your wealth",
+          "About Us",
+          "Services",
+          "Our Insights",
+          "Why diversification matters in your investment portfolio",
+          "Emily Parker",
+          "Understand your financial goals",
+          "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances",
+          "‍",
+          "Know your risk tolerance",
+          "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money",
+          "‍",
+          "Make informed investment choices",
+          "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives",
+          "‍",
+          "Build a diversified portfolio",
+          "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline",
+          "‍",
+          "Stay focused on the long term",
+          "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals",
+          "‍",
+          "‍",
+          "Seek Professional Financial Guidance",
+          "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan",
+          "‍",
+          "Make Your Next Financial Decision with Confidence",
+          "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence",
+          "Let's plan your next chapter with us",
+          "Let’s build your financial future with a clear plan and personalized guidance that grows with you",
+          "© 2026 Your Brand. All rights reserved.",
+          "powered by webflow"
+        ]
+      }
+    }
+  },
+  "company": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "display-01",
+        "text": "About our company",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "banner-paragraph _2",
+        "text": "At Valtriix, we believe wealth management should be about more than numbers. It's about understanding your ambitions, supporting your decisions",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "Helping you to build wealth since 2002",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "Since 2002, we've believed that wealth management should start with people, not numbers. What began with a simple vision—to make financial guidance more personal and meaningful—has grown into a commitment to helping individuals, families, and businesses plan for a brighter financial future",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "Over the years, our approach has remained the same: listen carefully, understand what matters most, and create strategies around each client's unique goals. We believe lasting relationships are built on trust, honest guidance",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "stat-paragraph",
+        "text": "Assets Under Management",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "stat-paragraph",
+        "text": "Clients Served",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "stat-paragraph",
+        "text": "Years of Experience",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "stat-paragraph",
+        "text": "Client Retention Rate",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "The values behind everything we do",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "We believe every strong relationship starts with trust. Through honest communication and clear guidance",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "Your goals always come first. We listen carefully, ask the right questions, and build advice most to you.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "We act with honesty and put your interests at the center of every decision, building trust, confidence, and lasting relationships.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "text-neutral-01",
+        "text": "The right partner for your wealth",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "choose-us-paragraph",
+        "text": "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "stat-description",
+        "text": "Countries Served",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "stat-description",
+        "text": "Assets Management",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "Open positions",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "job-item w-inline-block",
+        "text": "Senior UI/UX Designer New York, NY $4500 - $5000",
+        "href": "/contact"
+      },
+      {
+        "tag": "a",
+        "cls": "job-item w-inline-block",
+        "text": "Product Manager San Francisco, CA $7000 - $8500",
+        "href": "/contact"
+      },
+      {
+        "tag": "a",
+        "cls": "job-item w-inline-block",
+        "text": "Front-End Developer Austin, TX $4000 - $4800",
+        "href": "/contact"
+      },
+      {
+        "tag": "a",
+        "cls": "job-item w-inline-block",
+        "text": "Data Scientist Seattle, WA $6000 - $7500",
+        "href": "/contact"
+      },
+      {
+        "tag": "a",
+        "cls": "job-item w-inline-block",
+        "text": "Marketing Specialist Chicago, IL $3500 - $4200",
+        "href": "/contact"
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "Helping your wealth grow over time",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Chief Executive Officer and Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Co-Founder and Co-Chairman",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Co-Founder and Chairman Emeritus",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Chief Executive Officer and Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, North America Head of Client Business",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Global Head of Carlyle AlpInvest",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "Trusted by thousands clients",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "Got Questions?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link w--current",
+        "text": "How can Valtriix help me grow my wealth? We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+        "href": "#w-tabs-0-data-w-pane-0"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "How can Valtriix help me grow my wealth?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link",
+        "text": "How much do I need to start investing? Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+        "href": "#w-tabs-0-data-w-pane-1"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "How much do I need to start investing?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link",
+        "text": "How do you create a financial plan? Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,",
+        "href": "#w-tabs-0-data-w-pane-2"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "How do you create a financial plan?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link",
+        "text": "Can I update my investment strategy over time? Yes, and you should. A good investment strategy is not set once and left alone. It should change as your life and the markets change.",
+        "href": "#w-tabs-0-data-w-pane-3"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "Can I update my investment strategy over time?",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7182f61ee4576d91ff033_img-4.webp",
+        "alt": "Diverse group of professionals in a meeting room; a woman with glasses stands and talks to two seated colleagues with laptops while a man in a gray blazer reviews a document by the window.",
+        "cls": "about-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7182fd3a8fbe029a5e6af_img-6.webp",
+        "alt": "Abstract image with diagonal bands of warm golden and brown tones blending softly.",
+        "cls": "about-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d6605e517a52d64345e_brand-logo-1.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d66dbf5b983e2a52bca_brand-logo-2.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d68795818c6a43fdedd_brand-logo-3.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d665a05c49caafe44d9_brand-logo-4.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d66dbf5b983e2a52bc5_brand-logo-5.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d667956ab381daed829_brand-logo-6.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d6605e517a52d64345e_brand-logo-1.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d66dbf5b983e2a52bca_brand-logo-2.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d68795818c6a43fdedd_brand-logo-3.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d665a05c49caafe44d9_brand-logo-4.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d66dbf5b983e2a52bc5_brand-logo-5.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d667956ab381daed829_brand-logo-6.svg",
+        "alt": "Image",
+        "cls": "brand-logo-1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7182f11f1a87357e6dd77_img-5.webp",
+        "alt": "Image",
+        "cls": "our-story-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae74cddeb208fddd5d6b7a1_icon-1.svg",
+        "alt": "Icon",
+        "cls": "value-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae74cdd61ee4576d92910b2_2f49e18bb66f0adf125ddffe130b9c82_icon-2.svg",
+        "alt": "Icon",
+        "cls": "value-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae74cdd4c5f5b90310adff7_47d8f6d4610946f25bc8b4a32f326523_icon-3.svg",
+        "alt": "Icon",
+        "cls": "value-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae59511cec705122a634c4f_img-2.webp",
+        "alt": "Image",
+        "cls": "choose-us-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040e3abc10e689a02cd513_arrow-right.svg",
+        "alt": "Icon",
+        "cls": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040e3abc10e689a02cd513_arrow-right.svg",
+        "alt": "Icon",
+        "cls": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040e3abc10e689a02cd513_arrow-right.svg",
+        "alt": "Icon",
+        "cls": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040e3abc10e689a02cd513_arrow-right.svg",
+        "alt": "Icon",
+        "cls": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040e3abc10e689a02cd513_arrow-right.svg",
+        "alt": "Icon",
+        "cls": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f1ec8070a6429dd42_advisors-1.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b211fa9aa907202326d7_advisors-2.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b211f56a03d13d46f4e2_advisors-3.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2114a5eb2e67831c431_advisors-4.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20ffca4b838e49bd076_advisors-8.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f4a5eb2e67831c401_advisors-9.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b210fca4b838e49bd09c_advisors-10.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129cd1c1fc3efaaf6b9f_avatar-3.webp",
+        "alt": "Image",
+        "cls": "reviewer-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129a1bfd51ab7a22e297_avatar-5.webp",
+        "alt": "Image",
+        "cls": "reviewer-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aa9233ed72270bf70_avatar-1.webp",
+        "alt": "Image",
+        "cls": "reviewer-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b0414a54e7092bc8f185be5_avatar-6.webp",
+        "alt": "Image",
+        "cls": "reviewer-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129abe49a403adf33633_avatar-2.webp",
+        "alt": "Image",
+        "cls": "reviewer-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+        "alt": "Icon",
+        "cls": "star-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aa7ee1939a5eb53ec_avatar-4.webp",
+        "alt": "Image",
+        "cls": "reviewer-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      }
+    ]
+  },
+  "our_advisors": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "display-01",
+        "text": "Helping your wealth grow over time",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Chief Executive Officer and Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Co-Founder and Co-Chairman",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Co-Founder and Chairman Emeritus",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Lead Independent Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Chief Executive Officer and Director",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, North America Head of Client Business",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Global Head of Carlyle AlpInvest",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Co-Head of Americas Corporate Private Equity",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner and Vice Chairman, Global Affairs",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Chairman and Co-Head of Carlyle Japan",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "member-designation",
+        "text": "Partner, Co-Head of Americas Corporate Private Equity",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f1ec8070a6429dd42_advisors-1.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b211fa9aa907202326d7_advisors-2.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b211f56a03d13d46f4e2_advisors-3.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2114a5eb2e67831c431_advisors-4.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2111593f02f21abb199_advisors-5.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2116c066111f045decd_advisors-6.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2105ad378d32ba42c96_advisors-7.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20ffca4b838e49bd076_advisors-8.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f4a5eb2e67831c401_advisors-9.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b210fca4b838e49bd09c_advisors-10.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f3d74b3f3430be098_advisors-11.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f4a5eb2e67831c404_advisors-12.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20ffa9aa907202326ba_advisors-13.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b210dd229cd3f49928e1_advisors-14.webp",
+        "alt": "Image",
+        "cls": "member-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+        "alt": "Icon",
+        "cls": "advisors-social-icon"
+      }
+    ]
+  },
+  "contact": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block w--current",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "display-01",
+        "text": "Contact with us",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-title link",
+        "text": "3891 Ranchview Dr. Richardson, California 62639",
+        "href": "https://maps.app.goo.gl/dinshLuUdz3UuHSDA"
+      },
+      {
+        "tag": "p",
+        "cls": "contact-info-text",
+        "text": "T:",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-text link",
+        "text": "+61 5 65 102 259",
+        "href": "tel:+61565102259"
+      },
+      {
+        "tag": "p",
+        "cls": "contact-info-text",
+        "text": "E:",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-text link",
+        "text": "valtriix@mail.com",
+        "href": "mailto: valtriix@mail.com"
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-title link",
+        "text": "18 King Street, London, EC2V 8EA",
+        "href": "https://maps.app.goo.gl/BgsujtKVPzCGEeB7A"
+      },
+      {
+        "tag": "p",
+        "cls": "contact-info-text",
+        "text": "T:",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-text link",
+        "text": "+44 20 7946 0321",
+        "href": "tel:+442079460321"
+      },
+      {
+        "tag": "p",
+        "cls": "contact-info-text",
+        "text": "E:",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-text link",
+        "text": "london@valtriix.com",
+        "href": "mailto:london@valtriix.com"
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-title link",
+        "text": "120 Collins Street, Melbourne, VIC 3000",
+        "href": "#https://maps.app.goo.gl/q9zp7bVA9QgH6nXy9"
+      },
+      {
+        "tag": "p",
+        "cls": "contact-info-text",
+        "text": "T:",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-text link",
+        "text": "+61 3 5550 2846",
+        "href": "tel:+61355502846"
+      },
+      {
+        "tag": "p",
+        "cls": "contact-info-text",
+        "text": "E:",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "contact-info-text link",
+        "text": "melbourne@valtriix.com",
+        "href": "mailto:melbourne@valtriix.com"
+      },
+      {
+        "tag": "h2",
+        "cls": "",
+        "text": "Meet with an advisor",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "Connect with our experienced advisors to discuss your financial goals, explore tailored investment strategies",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "section-title",
+        "text": "Got Questions?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link w--current",
+        "text": "How can Valtriix help me grow my wealth? We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+        "href": "#w-tabs-0-data-w-pane-0"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "How can Valtriix help me grow my wealth?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link",
+        "text": "How much do I need to start investing? Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+        "href": "#w-tabs-0-data-w-pane-1"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "How much do I need to start investing?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link",
+        "text": "How do you create a financial plan? Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,",
+        "href": "#w-tabs-0-data-w-pane-2"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "How do you create a financial plan?",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "faq-accordion-tab-link w-inline-block w-tab-link",
+        "text": "Can I update my investment strategy over time? Yes, and you should. A good investment strategy is not set once and left alone. It should change as your life and the markets change.",
+        "href": "#w-tabs-0-data-w-pane-3"
+      },
+      {
+        "tag": "p",
+        "cls": "faq-question",
+        "text": "Can I update my investment strategy over time?",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae91ff2c537b63b4fd5041f_avatar-2.webp",
+        "alt": "Image",
+        "cls": "avatar-image _1"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae91ff2003116aea5b85796_avatar-3.webp",
+        "alt": "Image",
+        "cls": "avatar-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae91ff2f9f1eaa5053fd10f_avatar-4.webp",
+        "alt": "Image",
+        "cls": "avatar-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "submit-arrow-button"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7c4d19b0bc99c07177f45_map.webp",
+        "alt": "Image",
+        "cls": "map"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+        "alt": "Icon",
+        "cls": "plus"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+        "alt": "Icon",
+        "cls": "minus"
+      }
+    ]
+  },
+  "privacy_policy": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "display-01",
+        "text": "Privacy policy",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Welcome to Valtriix",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Welcome to Valtriix. Our Privacy Policy outlines how we collect, use, and protect your personal information when you access our website, articles, investment insights, and other digital services. By using Valtriix, you consent to the practices described in this policy. If you do not agree with any part of this policy, please do not use our website.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "About Valtriix",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Valtriixis a premier investment and wealth management platform dedicated to providing insightful financial news, expert analysis, and valuable resources across a wide range of investment topics. Our goal is to empower investors with accessible, engaging, and relevant financial information. This privacy policy applies to all visitors, clients, and users who access our website.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Financial information & AI analysis",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "If you choose to provide financial information, such as income, expenses, savings goals, spending patterns, or financial questions, that information may be processed to generate personalized insights and guidance. Our AI systems may analyze the information you provide to identify patterns and produce relevant responses. You should only provide information that you are comfortable sharing and should avoid submitting unnecessary sensitive information.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Cookies & tracking technologies",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We may use cookies and similar technologies to remember preferences, understand website traffic, improve functionality, and provide a better user experience. Some cookies may be essential for the website to operate, while others may help us understand how visitors use our website. You may be able to manage or disable certain cookies through your browser settings, although some website features.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "How we protect your information",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We take reasonable technical and organizational measures to protect the information we collect from unauthorized access, misuse, alteration, disclosure, or loss. However, no website, online service, or method of electronic transmission can be guaranteed to be completely secure. While we work to protect your information, we cannot guarantee absolute security.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Information sharing & disclosure",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We do not sell your personal information simply for the purpose of selling it to third parties. We may share information with trusted service providers, technology providers, analytics providers, or other partners when necessary to operate, maintain, secure, or improve our website and services. We may also disclose information when required by applicable law legal process.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Third-party services & links",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Our website may use third-party services or contain links to external websites. These third parties may have their own privacy policies and data practices that are independent of ours. We are not responsible for the privacy, security, or content practices of external websites or services. We encourage you to review the privacy policies of third-party services before providing them with personal information.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Your privacy rights & choices",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Depending on where you live, you may have certain rights regarding your personal information. These may include the right to request access, correction, deletion, restriction, or a copy of certain information we hold about you. You may also have choices regarding marketing communications, cookies, and certain data-processing activities. To exercise an applicable privacy right, you can contact us using the information provided below.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Data retention & children's privacy",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law. Our website is not intended to knowingly collect personal information from children without appropriate authorization. If you believe a child has provided personal information to us without appropriate consent, please contact us so we can take reasonable steps to address the situation.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Updates & contact information",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We may update this Privacy Policy from time to time to reflect changes in our services, technology, legal requirements, or privacy practices. When we make significant changes, we may update the date shown at the top of this page. If you have questions, concerns, or requests regarding this Privacy Policy or how your information is handled, please contact us at privacy@yourbrand.com.",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      }
+    ]
+  },
+  "terms_condition": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "display-01",
+        "text": "Terms and Conditions",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Welcome to Valtriix",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Welcome to Valtriix. These Terms & Conditions outline the rules and guidelines for accessing and utilizing our website, articles, investment insights, and other digital services. By visiting Valtriix, you agree to adhere to these terms. If you disagree with any part of these conditions, please refrain from using our website.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "About Valtriix",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Valtriix is a dedicated investment and wealth management platform committed to delivering insightful financial news, expert opinions, and valuable resources across various investment topics. Our mission is to empower investors with accessible, engaging, and relevant financial information. These terms apply to all visitors, clients, and users who access our website.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Acceptance of Terms",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "By accessing or browsing Valtriix, you confirm that you have read, understood, and accepted these Terms & Conditions. We may update these terms periodically to reflect changes in our services, investment practices, or legal obligations. Your continued use of the website after updates are published signifies your acceptance of the revised terms.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Use of Our Website",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "You may use Valtriix for personal, informational, and lawful purposes. You agree not to use our website in any manner that violates applicable laws, disrupts our services, interferes with other users, or compromises the security of our platform. Any actions that harm the website or hinder others from accessing its content are strictly prohibited.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Intellectual Property Rights",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "All original content published on Valtriix, including articles, headlines, images, graphics, logos, illustrations, and website design elements, is protected by applicable intellectual property laws unless otherwise stated. These materials may not be copied, reproduced, republished, distributed, or commercially exploited without prior written permission from the respective rights holder.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "News Content and Accuracy",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We strive to provide accurate, relevant, and timely investment coverage. However, investment insights may evolve as new information becomes available, and occasional errors or omissions may occur. Valtriix does not guarantee that every piece of content will always be complete, current, or free from inaccuracies. We reserve the right to correct, update, clarify, or remove content when necessary.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Editorial Independence",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Valtriix aims to uphold editorial integrity and present information responsibly. Our editorial content is developed according to our publishing standards and editorial judgment. Where applicable, sponsored articles, advertisements, and other paid content should be clearly identified so readers can distinguish them from independent editorial coverage.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Opinions and Commentary",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Certain articles, columns, interviews, and opinion pieces published on Valtriix may reflect the views of individual authors, contributors, or interviewees. These opinions do not necessarily represent the official position of Valtriix. Readers are encouraged to evaluate commentary critically and consider information from multiple reliable sources.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "User Comments and Contributions",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Valtriix may allow readers to submit comments, feedback, suggestions, photographs, or other contributions. By submitting content, you confirm that you have the necessary rights to share it and that it does not violate applicable laws or the rights of others. You are responsible for the content you submit and must ensure that it is accurate and appropriate.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Community Guidelines",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We encourage respectful discussion and constructive conversations across our platform. Users must not post abusive, threatening, discriminatory, defamatory, misleading, or unlawful material. Spam, impersonation, harassment, malicious links, and content that violates another person's privacy are also prohibited. Valtriix may moderate, edit, restrict, or remove user contributions that breach these guidelines.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "User Accounts and Security",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Some Valtriix features may require users to create an account or provide personal information. You are responsible for keeping your account credentials confidential and for activities conducted through your account. You agree to provide accurate information and notify us promptly if you suspect unauthorized access or misuse of your account.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Privacy and Personal Information",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Your privacy is important to us. Our collection, use, storage, and protection of personal information are detailed in our Privacy Policy. By using Valtriix, you acknowledge that you should review that policy to understand how your information may be handled. We aim to process personal information in accordance with applicable privacy and data protection laws.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Third-Party Links",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Our articles and pages may contain links to external websites, sources, or third-party services for additional information and convenience. Valtriix does not control these external platforms and is not responsible for their content, security, availability, or privacy practices. Visiting third-party websites is at your own discretion and subject to their individual terms and policies.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Governing Law",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "These Terms & Conditions shall be interpreted in accordance with the applicable laws of the jurisdiction in which the relevant legal relationship is governed, subject to mandatory consumer protection and other applicable legal requirements. Any disputes relating to these terms shall be handled by the competent courts or dispute resolution bodies as required by applicable law.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Changes to These Terms",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "We may revise these Terms & Conditions as Valtriix evolves. When changes are made, we will update the “Last Updated” date on this page. We encourage readers to review this page periodically to stay informed about the conditions that apply to their use of our website.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "terms-privacy-title",
+        "text": "Contact Us",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "If you have questions, concerns, or requests regarding these Terms & Conditions, we welcome you to contact our team. Please include sufficient information about your inquiry so we can respond appropriately.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Website: Valtriix",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "Email: legal@valtriix.com",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "terms-privacy-paragraph",
+        "text": "General Inquiries: info@valtriix.com",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      }
+    ]
+  },
+  "changelog": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "banner-title",
+        "text": "Changelog",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-date",
+        "text": "02 July 2027",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "content-title",
+        "text": "Smarter AI marketing workflows",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-description",
+        "text": "Create, launch, and optimize campaigns faster with smarter AI agents built for modern marketing teams.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-date",
+        "text": "18 June 2027",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "content-title",
+        "text": "Campaigns that work smarter",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-description",
+        "text": "Plan and execute complete marketing campaigns from one place with intelligent AI assistance at every step.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-date",
+        "text": "04 June 2027",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "content-title",
+        "text": "Campaigns that work smarter",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-description",
+        "text": "Plan and execute complete marketing campaigns from one place with intelligent AI assistance at every step.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-date",
+        "text": "21 May 2027",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "content-title",
+        "text": "A more intelligent marketing assistant",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "changelog-description",
+        "text": "Your AI marketing assistant now understands more context, works across more channels, and helps turn ideas into ready-to-launch campaigns.",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+        "alt": "Icon",
+        "cls": "changelog-feaute-icon"
+      }
+    ]
+  },
+  "licenses": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "",
+        "text": "Our License",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "banner-paragraph _3",
+        "text": "All graphical assets in this template are licensed for personal and commercial use. If you'd like to use a specific asset, please check the license below.",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "license-items",
+        "text": "Inter",
+        "href": "https://fonts.google.com/specimen/Inter/license?query=i"
+      },
+      {
+        "tag": "a",
+        "cls": "license-items",
+        "text": "Geist",
+        "href": "https://fonts.google.com/specimen/Geist/license"
+      },
+      {
+        "tag": "a",
+        "cls": "license-items",
+        "text": "Freepik",
+        "href": "https://www.magnific.com/ai/docs/licenses-attribution"
+      },
+      {
+        "tag": "a",
+        "cls": "license-items",
+        "text": "Unsplash",
+        "href": "https://unsplash.com/license"
+      },
+      {
+        "tag": "a",
+        "cls": "license-items",
+        "text": "Flaticon",
+        "href": "https://www.flaticon.com/free-icons/license"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      }
+    ]
+  },
+  "instructions": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "banner-title",
+        "text": "Protection starts with understanding",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "banner-paragraph _2",
+        "text": "Thank you for choosing Vanlo. This page shows you how to customize the template in a few easy steps.",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Getting Started",
+        "href": "#Getting-Started"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Style Guide",
+        "href": "#Style-Guide"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Colors",
+        "href": "#Colors"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Fonts",
+        "href": "#Fonts"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Editing text and images",
+        "href": "#Editing-text-and-images"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Using the CMS",
+        "href": "#Cms"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Adding or Removing Sections",
+        "href": "#Adding-or-Removing-Sections"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Navbar and Footer",
+        "href": "#Nabber-and-Footer"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Forms",
+        "href": "#Forms"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Interactions and Animations",
+        "href": "#Interactions-and-Animations"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "SEO settings",
+        "href": "#SEO-settings"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "Guidance",
+        "href": "#GSAP-guidance"
+      },
+      {
+        "tag": "a",
+        "cls": "documentation-sidebar-item w-inline-block",
+        "text": "publishing",
+        "href": "#publishing"
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Data protection & security",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Clone the template into your Webflow account, then open it in the Designer. Start by looking at the Home page to see how the sections are built. All pages use the same classes and styles, so changes stay consistent.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Style guide",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Open the Style Guide page to find all fonts, colors, buttons, and headings in one place. Change a color or font there, and it updates across the whole site. Start here before editing any page.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Colors",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Go to the Variables panel and open the Colors collection. Edit the values to match your brand. Do not rename the variables.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Fonts",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Open Site Settings, then Fonts, to change the font family. After that, check the Typography section of the Style Guide to confirm the sizes still look right.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Editing text and images",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Double-click any text to edit it. To change an image, select it, open the Settings panel, and click Replace. Add alt text to every image for better SEO and accessibility.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Using the CMS",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Open the CMS Collections in the Webflow Designer to manage your website content. You can add, edit, or delete CMS items such as Services, Blog Posts, and Case Studies. Changes made to CMS items will automatically update the connected Collection Lists and dynamic pages across your website.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Adding or removing sections",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Copy any section from one page and paste it onto another. To remove a section, select it and press Delete. Keep the section structure (Section, Container, Content) so spacing stays correct.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Navbar and footer",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Click the navbar or footer to edit links, logo, and buttons. These are shared elements, so changes apply to all pages.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Forms",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Select a form and open its Settings panel to change the form name and success message. To receive submissions by email, go to Site Settings, then Forms, and add your email address.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Interactions and animations",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Open the Interactions panel to adjust or turn off any animation. Select an element with an animation to see its settings.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "SEO settings",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "For each page, open Page Settings and update the title, description, and Open Graph image. For CMS pages, use the SEO fields on the template page.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Guidance",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "This template uses (GreenSock Animation Platform) to create smooth animations and interactive experiences throughout the website.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "It's controls various animations across the website, including scroll-triggered effects, element reveals, and interactive motion effects. The animations are initialized through custom JavaScript code included in the project.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "You can customize the animations through the Webflow Designer and the custom code used in this template.",
+        "href": null
+      },
+      {
+        "tag": "li",
+        "cls": "",
+        "text": "Select an animated element to review its assigned interactions in the Interactions panel.",
+        "href": null
+      },
+      {
+        "tag": "li",
+        "cls": "",
+        "text": "Check the related code before changing animation behavior.",
+        "href": null
+      },
+      {
+        "tag": "li",
+        "cls": "",
+        "text": "Keep the existing class names and element structure used by the animations.",
+        "href": null
+      },
+      {
+        "tag": "li",
+        "cls": "",
+        "text": "Adjust animation settings carefully to maintain smooth transitions and consistent behavior.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "documentation-title",
+        "text": "Publishing",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph",
+        "text": "Connect your domain in Site Settings, then Hosting, and click Publish. Test the site on desktop, tablet, and mobile before you go live.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "instructions-paragraph _2",
+        "text": "Always make a backup before big changes. Use the Backups option in Site Settings.",
+        "href": null
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+        "alt": "Icon",
+        "cls": "documentation-sidebar-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+        "alt": "Icon",
+        "cls": "documentation-icon"
+      }
+    ]
+  },
+  "style_guide": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "banner-title",
+        "text": "Styleguide",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "styleguide-title",
+        "text": "Colors",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "styleguide-title",
+        "text": "Typography",
+        "href": null
+      },
+      {
+        "tag": "h1",
+        "cls": "display-01",
+        "text": "Display 01",
+        "href": null
+      },
+      {
+        "tag": "h1",
+        "cls": "",
+        "text": "Heading 1",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "",
+        "text": "Heading 2",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "cls": "display-03",
+        "text": "Display 03",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "cls": "",
+        "text": "Heading 3",
+        "href": null
+      },
+      {
+        "tag": "h4",
+        "cls": "",
+        "text": "Heading 4",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "",
+        "text": "We build free & premium templates that help you speed up your website building process inside Webflow.",
+        "href": null
+      },
+      {
+        "tag": "h2",
+        "cls": "styleguide-title",
+        "text": "Buttons",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Get Started Now Get Started Now",
+        "href": "/contact"
+      },
+      {
+        "tag": "a",
+        "cls": "button w-variant-60f4c3cd-7273-19f2-e1d4-7705c08e7d85 w-inline-block",
+        "text": "Get Started Now Get Started Now",
+        "href": "/contact"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      }
+    ]
+  },
+  "not_found": {
+    "blocks": [
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Make An Appointment Make An Appointment",
+        "href": "/contact"
+      },
+      {
+        "tag": "h1",
+        "cls": "_404-title",
+        "text": "Oops...Not here",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "cls": "_404-paragraph",
+        "text": "This page doesn't seem to exist anymore",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "cls": "button w-inline-block",
+        "text": "Go Back To Home Go Back To Home",
+        "href": "/"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+        "alt": "Logo",
+        "cls": "navbar-brand-logo white"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+        "alt": "404",
+        "cls": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon normal"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+        "alt": "Icon",
+        "cls": "button-icon hover"
+      }
+    ]
+  }
+}

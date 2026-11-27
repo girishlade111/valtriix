@@ -1,0 +1,784 @@
+{
+  "hero_states": [
+    {
+      "sec": 0,
+      "elements": [
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Discover a better way to invest",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 108,
+            "y": 183.59375,
+            "width": 590,
+            "height": 168,
+            "top": 183.59375,
+            "right": 698,
+            "bottom": 351.59375,
+            "left": 108
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Smarter financial guidance",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "AI-powered",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "by intelligent",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        }
+      ]
+    },
+    {
+      "sec": 1,
+      "elements": [
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Discover a better way to invest",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 108,
+            "y": 183.59375,
+            "width": 590,
+            "height": 168,
+            "top": 183.59375,
+            "right": 698,
+            "bottom": 351.59375,
+            "left": 108
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Smarter financial guidance",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "AI-powered",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "by intelligent",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        }
+      ]
+    },
+    {
+      "sec": 2,
+      "elements": [
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Discover a better way to invest",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 108,
+            "y": 183.59375,
+            "width": 590,
+            "height": 168,
+            "top": 183.59375,
+            "right": 698,
+            "bottom": 351.59375,
+            "left": 108
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Smarter financial guidance",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "AI-powered",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "by intelligent",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        }
+      ]
+    },
+    {
+      "sec": 3,
+      "elements": [
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Discover a better way to invest",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 108,
+            "y": 183.59375,
+            "width": 590,
+            "height": 168,
+            "top": 183.59375,
+            "right": 698,
+            "bottom": 351.59375,
+            "left": 108
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "Smarter financial guidance",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "AI-powered",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        },
+        {
+          "tag": "H1",
+          "cls": "hero-title",
+          "text": "by intelligent",
+          "opacity": "1",
+          "transform": "none",
+          "display": "block",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          }
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "tag": "SECTION",
+      "cls": "header w-variant-ba37e49d-9a5a-fb2f-246d-946d4deb9fcc",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 77
+      },
+      "bg": "rgba(255, 255, 255, 0)",
+      "bgImage": null,
+      "paddingTop": "16px",
+      "paddingBottom": "16px",
+      "textSample": "All Pages About Us Services Our Insights Make An Appointment Make An Appointment"
+    },
+    {
+      "tag": "NAV",
+      "cls": "nav-menu-wrapper w-variant-ba37e49d-9a5a-fb2f-246d-946d4deb9fcc w-nav-menu",
+      "id": null,
+      "rect": {
+        "x": 494,
+        "y": 17,
+        "width": 394,
+        "height": 44
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "All Pages About Us Services Our Insights"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "hero-section",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": -13,
+        "width": 1440,
+        "height": 900
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "160px",
+      "paddingBottom": "56px",
+      "textSample": "YOUR PARTNER IN WEALTH Discover a better way to invest Invest smarter with tailored strategies and expert guidance desig"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "service-section padding",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 887,
+        "width": 1440,
+        "height": 950
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "140px",
+      "paddingBottom": "140px",
+      "textSample": "OUR SERVICES Solutions built around your financial goals Long-Term Wealth Preservation Strategies Personalized Financial"
+    },
+    {
+      "tag": "DIV",
+      "cls": "section-title-wrapper",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 1077,
+        "width": 1224,
+        "height": 165
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "OUR SERVICES Solutions built around your financial goals"
+    },
+    {
+      "tag": "DIV",
+      "cls": "section-heading-block left",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 1077,
+        "width": 500,
+        "height": 165
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "OUR SERVICES Solutions built around your financial goals"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "our-approach-section padding-bottom",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 1837,
+        "width": 1440,
+        "height": 870
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "140px",
+      "textSample": "OUR APPROACH Smarter way to build lasting wealth Build lasting wealth with tailored investment strategies and expert gui"
+    },
+    {
+      "tag": "NAV",
+      "cls": "faq-item-content w-dropdown-list",
+      "id": "w-dropdown-list-1",
+      "rect": {
+        "x": 108,
+        "y": 2356,
+        "width": 468,
+        "height": 64
+      },
+      "bg": "rgba(255, 255, 255, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "We use careful research and market insights to guide smarter investment decisions"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "why-choose-us-section padding-bottom",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 2707,
+        "width": 1440,
+        "height": 870
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "140px",
+      "textSample": "WHY CHOOSE US The right partner for your wealth We combine personalized guidance, trusted expertise, and thoughtful stra"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "sections",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 3577,
+        "width": 1440,
+        "height": 2060
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(rgb(102, 125, 102), rgb(33, 30, 28) 42.92%)",
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "Play Video $2.5B+ Assets Under Management 1,200+ Clients Served 15+ Years of Experience 98% Client Retention Rate CASE S"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "about-section padding-top-sm",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 3577,
+        "width": 1440,
+        "height": 1080
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "120px",
+      "paddingBottom": "0px",
+      "textSample": "Play Video $2.5B+ Assets Under Management 1,200+ Clients Served 15+ Years of Experience 98% Client Retention Rate"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "case-study-section padding",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 4657,
+        "width": 1440,
+        "height": 979
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "140px",
+      "paddingBottom": "140px",
+      "textSample": "CASE STUDY Stories of meaningful financial growth Clear financial guidance Read Story Read Story Clear financial guidanc"
+    },
+    {
+      "tag": "DIV",
+      "cls": "section-heading-block",
+      "id": null,
+      "rect": {
+        "x": 470,
+        "y": 4847,
+        "width": 500,
+        "height": 165
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "CASE STUDY Stories of meaningful financial growth"
+    },
+    {
+      "tag": "H2",
+      "cls": "section-title text-neutral-01",
+      "id": null,
+      "rect": {
+        "x": 470,
+        "y": 4884,
+        "width": 500,
+        "height": 129
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "Stories of meaningful financial growth"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "customer-review-section padding",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 5636,
+        "width": 1440,
+        "height": 674
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "140px",
+      "paddingBottom": "140px",
+      "textSample": "Kim Tio, CEO and Co-Founder \u201cValtriix brings clarity to our financial decisions with thoughtful guidance and a focus on "
+    },
+    {
+      "tag": "SECTION",
+      "cls": "who-we-serve-section padding-bottom",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 6310,
+        "width": 1440,
+        "height": 980
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "140px",
+      "textSample": "WHO WE SERVE Financial guidance for every stage of life Business Owners Entrepreneurs Net Worth Individuals Business Own"
+    },
+    {
+      "tag": "DIV",
+      "cls": "section-heading-block left _2",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 6360,
+        "width": 570,
+        "height": 165
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "WHO WE SERVE Financial guidance for every stage of life"
+    },
+    {
+      "tag": "H2",
+      "cls": "section-title",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 6397,
+        "width": 570,
+        "height": 129
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "Financial guidance for every stage of life"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "how-it-work-section padding-bottom",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 7290,
+        "width": 1440,
+        "height": 1240
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "140px",
+      "textSample": "HOW IT WORKS Simpler way to build your wealth 01 Let's Talk About Your Goals 02 Create Your Strategy 03 Grow With Confid"
+    },
+    {
+      "tag": "DIV",
+      "cls": "section-heading-block left _2",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 7340,
+        "width": 460,
+        "height": 165
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "HOW IT WORKS Simpler way to build your wealth"
+    },
+    {
+      "tag": "H2",
+      "cls": "section-title",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 7377,
+        "width": 460,
+        "height": 129
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "Simpler way to build your wealth"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "about-us-section padding-bottom",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 8530,
+        "width": 1440,
+        "height": 826
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "140px",
+      "textSample": "ABOUT US Helping you make confident financial decisions At Valtriix, we believe investing should built around your goals"
+    },
+    {
+      "tag": "H2",
+      "cls": "section-title text-neutral-01",
+      "id": null,
+      "rect": {
+        "x": 792,
+        "y": 8659,
+        "width": 500,
+        "height": 193
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "Helping you make confident financial decisions"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "blog-section padding-bottom",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 9356,
+        "width": 1440,
+        "height": 648
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "140px",
+      "textSample": "News and updates View All Articles View All Articles Making better financial decisions with confidence INVESTING OCTOBER"
+    },
+    {
+      "tag": "DIV",
+      "cls": "section-title-wrapper blog",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 9406,
+        "width": 1224,
+        "height": 64
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "News and updates View All Articles View All Articles"
+    },
+    {
+      "tag": "H2",
+      "cls": "section-title",
+      "id": null,
+      "rect": {
+        "x": 108,
+        "y": 9406,
+        "width": 437,
+        "height": 64
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "News and updates"
+    },
+    {
+      "tag": "FOOTER",
+      "cls": "footer-and-cta",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 10005,
+        "width": 1440,
+        "height": 1135
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "textSample": "Let's plan your next chapter with us Let\u2019s build your financial future with a clear plan and personalized guidance that "
+    },
+    {
+      "tag": "DIV",
+      "cls": "cta-section",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 10005,
+        "width": 1440,
+        "height": 553
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "paddingTop": "140px",
+      "paddingBottom": "140px",
+      "textSample": "Let's plan your next chapter with us Let\u2019s build your financial future with a clear plan and personalized guidance that "
+    },
+    {
+      "tag": "DIV",
+      "cls": "footer-section",
+      "id": null,
+      "rect": {
+        "x": 0,
+        "y": 10558,
+        "width": 1440,
+        "height": 582
+      },
+      "bg": "rgb(33, 30, 28)",
+      "bgImage": null,
+      "paddingTop": "95px",
+      "paddingBottom": "78px",
+      "textSample": "Company Home About Services Case Studies Contact Privacy Policy 404 Services Asset Management Wealth Management Financia"
+    }
+  ],
+  "gsap_inline_scripts": [
+    "WebFont.load({  google: {    families: [\"Geist:300,400,500,600,700\",\"Inter:300,400,500,600,700\"]  }});",
+    "!function(o,c){var n=c.documentElement,t=\" w-mod-\";n.className+=t+\"js\",(\"ontouchstart\"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+\"touch\")}(window,document);",
+    "gsap.registerPlugin(Flip,ScrollTrigger,SplitText,CustomEase);",
+    "\nwindow.__WF_REVIEW_BRIDGE = {\n  siteId: \"6a794f55fc741b795eb9a37e\",\n  version: \"0.3.0\",\n  marker: \"__wf_review_snippet_v1\",\n  bridgeToken: \"wfbt_dcb50cbe68b54a11b3b9c642b4d05a77\",\n  reviewSurface: \"published-review\",\n  reviewScriptUrl: \"https://validation-worker.createsomething.workers.dev/app-validator/snippet/review.js\"\n};\n"
+  ]
+}

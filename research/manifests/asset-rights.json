@@ -1,0 +1,978 @@
+[
+  {
+    "assetId": "asset-001",
+    "name": "6ac9e8751d7aafbf20555035_checkbox%201.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e8751d7aafbf20555035_checkbox%201.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-002",
+    "name": "6ac9e87688343be0cbaab33a_checkbox%202.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6a9cd5e7ff06e05d80624759/6ac9e87688343be0cbaab33a_checkbox%202.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-003",
+    "name": "6ae45620ca4477d8c415f0f5_service-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae45620ca4477d8c415f0f5_service-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-004",
+    "name": "6ae4573cd9c97bfeac3c326a_service-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4573cd9c97bfeac3c326a_service-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-005",
+    "name": "6ae4574f1a9184230f6da535_service-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4574f1a9184230f6da535_service-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-006",
+    "name": "6ae4575f6296a921da20bbee_service-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4575f6296a921da20bbee_service-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-007",
+    "name": "6ae4576dcbbad805c51aa510_service-5.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4576dcbbad805c51aa510_service-5.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-008",
+    "name": "6ae45783662d53e0bb108212_service-6.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae45783662d53e0bb108212_service-6.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-009",
+    "name": "6ae457ba1a9184230f6ddb77_service-7.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae457ba1a9184230f6ddb77_service-7.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-010",
+    "name": "6ae457e57b08c7977c6cccda_service-9.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae457e57b08c7977c6cccda_service-9.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-011",
+    "name": "6ae462aeb83cb5a78e863cf5_blog-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae462aeb83cb5a78e863cf5_blog-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-012",
+    "name": "6ae46513cbbad805c5238e10_author-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae46513cbbad805c5238e10_author-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-013",
+    "name": "6ae46525a161d728663e05e4_blog-detail.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae46525a161d728663e05e4_blog-detail.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-014",
+    "name": "6ae465a2221bf9b41b2bd954_blog-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465a2221bf9b41b2bd954_blog-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-015",
+    "name": "6ae465b8ca4477d8c41e4fa7_blog-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465b8ca4477d8c41e4fa7_blog-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-016",
+    "name": "6ae465c0de3b227659af138a_blog-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465c0de3b227659af138a_blog-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-017",
+    "name": "6ae465f3e2515581d2fa638c_blog-5.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae465f3e2515581d2fa638c_blog-5.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-018",
+    "name": "6ae466c8cca01f491913e1af_blog-6.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae466c8cca01f491913e1af_blog-6.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-019",
+    "name": "6ae46701e2515581d2fb2477_blog-7.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae46701e2515581d2fb2477_blog-7.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-020",
+    "name": "6ae467222ead49f5450e615c_blog-8.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae467222ead49f5450e615c_blog-8.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-021",
+    "name": "6ae4675510319e067342c028_blog-9.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4675510319e067342c028_blog-9.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-022",
+    "name": "6ae4678107bdd509b8482a2c_blog-10.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae4678107bdd509b8482a2c_blog-10.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-023",
+    "name": "6ae7090d8cba85085db5e0c9_avatar-1.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae7090d8cba85085db5e0c9_avatar-1.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-024",
+    "name": "6ae7090f42eb2faf11714011_brand-logo-1.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae7090f42eb2faf11714011_brand-logo-1.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-025",
+    "name": "6ae709146c066111f02695ca_case-study-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae709146c066111f02695ca_case-study-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-026",
+    "name": "6ae70962c515c98bc57c02d2_case-study-details.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae70962c515c98bc57c02d2_case-study-details.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-027",
+    "name": "6ae918f0920518327cede457_case-study-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae918f0920518327cede457_case-study-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-028",
+    "name": "6ae9193e0c587594cdb13f8f_brand-logo-3.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9193e0c587594cdb13f8f_brand-logo-3.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-029",
+    "name": "6ae9194249e2a1f89dbb48d5_case-study-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9194249e2a1f89dbb48d5_case-study-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-030",
+    "name": "6ae9196990a48dc125188294_case-study-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9196990a48dc125188294_case-study-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-031",
+    "name": "6ae91ec4a82f83970811e1ee_avatar-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae91ec4a82f83970811e1ee_avatar-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-032",
+    "name": "6ae91ed1205564b749c176e2_avatar-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae91ed1205564b749c176e2_avatar-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-033",
+    "name": "6ae91ed974388fd4edb93d59_avatar-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae91ed974388fd4edb93d59_avatar-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-034",
+    "name": "6ae92263b0eec71d7448ec6c_user-18.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae92263b0eec71d7448ec6c_user-18.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-035",
+    "name": "6ae9226be430ced7edabcf8e_user-16.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9226be430ced7edabcf8e_user-16.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-036",
+    "name": "6ae922786a9dc7c88b8ff604_user-13.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae922786a9dc7c88b8ff604_user-13.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-037",
+    "name": "6ae92285c603031c67d9d6dd_user-11.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae92285c603031c67d9d6dd_user-11.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-038",
+    "name": "6ae9228d1c8e46051b69cd52_user-9.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9228d1c8e46051b69cd52_user-9.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-039",
+    "name": "6ae9229319268d61a43a7d7e_user-6.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9229319268d61a43a7d7e_user-6.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-040",
+    "name": "6ae9229df9f1eaa505404851_user-8.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae9229df9f1eaa505404851_user-8.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-041",
+    "name": "6ae95f55b888efcb5efab46f_brand-logo-6.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf25/6ae95f55b888efcb5efab46f_brand-logo-6.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-042",
+    "name": "6ae069526c7d845d6cbab639_1_mp4.mp4",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28%2F6ae069526c7d845d6cbab639_1_mp4.mp4",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-043",
+    "name": "6ae069526c7d845d6cbab639_1_poster.0000000.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28%2F6ae069526c7d845d6cbab639_1_poster.0000000.jpg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-044",
+    "name": "6ae069526c7d845d6cbab639_1_poster.0000000.jpg&quot",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28%2F6ae069526c7d845d6cbab639_1_poster.0000000.jpg&quot;",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "failed",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-045",
+    "name": "6ae069526c7d845d6cbab639_1_webm.webm",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28%2F6ae069526c7d845d6cbab639_1_webm.webm",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-046",
+    "name": "6ae069526c7d845d6cbab4f3_pause-button.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab4f3_pause-button.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-047",
+    "name": "6ae069526c7d845d6cbab874_down-arrow.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab874_down-arrow.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-048",
+    "name": "6ae069526c7d845d6cbab8a4_check-5.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8a4_check-5.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-049",
+    "name": "6ae069526c7d845d6cbab8f5_27e6d6c16b892fb01585dabb729e02cb_Og%20Image.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab8f5_27e6d6c16b892fb01585dabb729e02cb_Og%20Image.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-050",
+    "name": "6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab906_964afbb12578e7fed4d2d6cc30213e6d_logo-black.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-051",
+    "name": "6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab917_Expand%20Icon.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-052",
+    "name": "6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab918_Collapse%20Icon.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-053",
+    "name": "6ae069526c7d845d6cbab921_Next%20Arrow.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab921_Next%20Arrow.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-054",
+    "name": "6ae069526c7d845d6cbab922_Prev%20Arrow.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae069526c7d845d6cbab922_Prev%20Arrow.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-055",
+    "name": "6ae0862445ae361a91984a0b_corner-down-right.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae0862445ae361a91984a0b_corner-down-right.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-056",
+    "name": "6ae18d3f08db83ccf31b46fe_linkedin.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae18d3f08db83ccf31b46fe_linkedin.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-057",
+    "name": "6ae18d3fbf28af87de6c2f68_facebook.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae18d3fbf28af87de6c2f68_facebook.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-058",
+    "name": "6ae18d3fc7e4640b4ee7e093_x.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae18d3fc7e4640b4ee7e093_x.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-059",
+    "name": "6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae1a8884e0095e2c93e27a1_68372a86fe5348846855d2b509062fb3_Logo%20White.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-060",
+    "name": "6ae2018129249c6671b3a189_CTA.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae2018129249c6671b3a189_CTA.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-061",
+    "name": "6ae20181611da1867f6a7623_5b1335b6ad127cba312ea7087cb90d6d_hero.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20181611da1867f6a7623_5b1335b6ad127cba312ea7087cb90d6d_hero.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-062",
+    "name": "6ae20d6605e517a52d64345e_brand-logo-1.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d6605e517a52d64345e_brand-logo-1.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-063",
+    "name": "6ae20d665a05c49caafe44d9_brand-logo-4.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d665a05c49caafe44d9_brand-logo-4.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-064",
+    "name": "6ae20d667956ab381daed829_brand-logo-6.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d667956ab381daed829_brand-logo-6.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-065",
+    "name": "6ae20d66dbf5b983e2a52bc5_brand-logo-5.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d66dbf5b983e2a52bc5_brand-logo-5.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-066",
+    "name": "6ae20d66dbf5b983e2a52bca_brand-logo-2.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d66dbf5b983e2a52bca_brand-logo-2.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-067",
+    "name": "6ae20d68795818c6a43fdedd_brand-logo-3.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae20d68795818c6a43fdedd_brand-logo-3.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-068",
+    "name": "6ae4881fa3eda480395d4753_arrow-right%201.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fa3eda480395d4753_arrow-right%201.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-069",
+    "name": "6ae4881fc034bf0fead92679_arrow-right%202.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc034bf0fead92679_arrow-right%202.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-070",
+    "name": "6ae4881fc798ffbac7119357_arrow-left%201.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4881fc798ffbac7119357_arrow-left%201.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-071",
+    "name": "6ae4cfadf02060279c30576f_img-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4cfadf02060279c30576f_img-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-072",
+    "name": "6ae4d17458eff11fa2ceb722_corner-down-right%202.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae4d17458eff11fa2ceb722_corner-down-right%202.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-073",
+    "name": "6ae59511cec705122a634c4f_img-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae59511cec705122a634c4f_img-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-074",
+    "name": "6ae5bddc1593f02f2163a216_play.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae5bddc1593f02f2163a216_play.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-075",
+    "name": "6ae5bdddc3d1d1d53019272d_video-bg-img.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae5bdddc3d1d1d53019272d_video-bg-img.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-076",
+    "name": "6ae6def34c5f5b9031fa1737_img-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae6def34c5f5b9031fa1737_img-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-077",
+    "name": "6ae7182f11f1a87357e6dd77_img-5.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7182f11f1a87357e6dd77_img-5.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-078",
+    "name": "6ae7182f61ee4576d91ff033_img-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7182f61ee4576d91ff033_img-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-079",
+    "name": "6ae7182fd3a8fbe029a5e6af_img-6.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7182fd3a8fbe029a5e6af_img-6.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-080",
+    "name": "6ae74cdd4c5f5b90310adff7_47d8f6d4610946f25bc8b4a32f326523_icon-3.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae74cdd4c5f5b90310adff7_47d8f6d4610946f25bc8b4a32f326523_icon-3.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-081",
+    "name": "6ae74cdd61ee4576d92910b2_2f49e18bb66f0adf125ddffe130b9c82_icon-2.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae74cdd61ee4576d92910b2_2f49e18bb66f0adf125ddffe130b9c82_icon-2.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-082",
+    "name": "6ae74cddeb208fddd5d6b7a1_icon-1.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae74cddeb208fddd5d6b7a1_icon-1.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-083",
+    "name": "6ae7b20f1ec8070a6429dd42_advisors-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f1ec8070a6429dd42_advisors-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-084",
+    "name": "6ae7b20f3d74b3f3430be098_advisors-11.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f3d74b3f3430be098_advisors-11.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-085",
+    "name": "6ae7b20f4a5eb2e67831c401_advisors-9.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f4a5eb2e67831c401_advisors-9.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-086",
+    "name": "6ae7b20f4a5eb2e67831c404_advisors-12.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20f4a5eb2e67831c404_advisors-12.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-087",
+    "name": "6ae7b20ffa9aa907202326ba_advisors-13.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20ffa9aa907202326ba_advisors-13.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-088",
+    "name": "6ae7b20ffca4b838e49bd076_advisors-8.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b20ffca4b838e49bd076_advisors-8.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-089",
+    "name": "6ae7b2105ad378d32ba42c96_advisors-7.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2105ad378d32ba42c96_advisors-7.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-090",
+    "name": "6ae7b210dd229cd3f49928e1_advisors-14.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b210dd229cd3f49928e1_advisors-14.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-091",
+    "name": "6ae7b210fca4b838e49bd09c_advisors-10.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b210fca4b838e49bd09c_advisors-10.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-092",
+    "name": "6ae7b2111593f02f21abb199_advisors-5.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2111593f02f21abb199_advisors-5.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-093",
+    "name": "6ae7b2114a5eb2e67831c431_advisors-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2114a5eb2e67831c431_advisors-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-094",
+    "name": "6ae7b2116c066111f045decd_advisors-6.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b2116c066111f045decd_advisors-6.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-095",
+    "name": "6ae7b211f56a03d13d46f4e2_advisors-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b211f56a03d13d46f4e2_advisors-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-096",
+    "name": "6ae7b211fa9aa907202326d7_advisors-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b211fa9aa907202326d7_advisors-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-097",
+    "name": "6ae7b4f64f5e256fa600030a_x-dark.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7b4f64f5e256fa600030a_x-dark.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-098",
+    "name": "6ae7c4d19b0bc99c07177f45_map.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae7c4d19b0bc99c07177f45_map.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-099",
+    "name": "6ae91ff2003116aea5b85796_avatar-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae91ff2003116aea5b85796_avatar-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-100",
+    "name": "6ae91ff2c537b63b4fd5041f_avatar-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae91ff2c537b63b4fd5041f_avatar-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-101",
+    "name": "6ae91ff2f9f1eaa5053fd10f_avatar-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae91ff2f9f1eaa5053fd10f_avatar-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-102",
+    "name": "6ae9669e1607d1aeea85ad58_service-8.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9669e1607d1aeea85ad58_service-8.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-103",
+    "name": "6ae9669eb2c3557bbc17fb85_service-9.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9669eb2c3557bbc17fb85_service-9.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-104",
+    "name": "6ae9a7249909b189743462d6_menu-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a7249909b189743462d6_menu-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-105",
+    "name": "6ae9a724a742d9253bd82211_menu-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6ae9a724a742d9253bd82211_menu-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-106",
+    "name": "6afd6f0e5fbe6e0f1737994c_Favicon.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6afd6f0e5fbe6e0f1737994c_Favicon.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-107",
+    "name": "6afd6f0e64b3b2573707f7b9_Favicon.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6afd6f0e64b3b2573707f7b9_Favicon.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-108",
+    "name": "6afd6f0ea53561f85ddeca2c_Favicon.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6afd6f0ea53561f85ddeca2c_Favicon.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-109",
+    "name": "6afd6f0ebd8b093728ca9603_Favicon.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6afd6f0ebd8b093728ca9603_Favicon.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-110",
+    "name": "6afd6f0ee3533aa8e0d59ecd_Favicon.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6afd6f0ee3533aa8e0d59ecd_Favicon.png",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-111",
+    "name": "6b040264b10c08f228573b67_icon-5.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040264b10c08f228573b67_icon-5.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-112",
+    "name": "6b040264d632d51427fa257b_icon-4.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040264d632d51427fa257b_icon-4.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-113",
+    "name": "6b0407443c745bc7c083157b_shape-1.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b0407443c745bc7c083157b_shape-1.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-114",
+    "name": "6b0407443cbe41021e11c0f9_img-7.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b0407443cbe41021e11c0f9_img-7.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-115",
+    "name": "6b040e3abc10e689a02cd513_arrow-right.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b040e3abc10e689a02cd513_arrow-right.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-116",
+    "name": "6b04129a1bfd51ab7a22e297_avatar-5.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129a1bfd51ab7a22e297_avatar-5.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-117",
+    "name": "6b04129aa7ee1939a5eb53ec_avatar-4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aa7ee1939a5eb53ec_avatar-4.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-118",
+    "name": "6b04129aa9233ed72270bf70_avatar-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aa9233ed72270bf70_avatar-1.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-119",
+    "name": "6b04129abe49a403adf33633_avatar-2.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129abe49a403adf33633_avatar-2.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-120",
+    "name": "6b04129aeebd7ab987045fc5_star.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129aeebd7ab987045fc5_star.svg",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-121",
+    "name": "6b04129cd1c1fc3efaaf6b9f_avatar-3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b04129cd1c1fc3efaaf6b9f_avatar-3.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  },
+  {
+    "assetId": "asset-122",
+    "name": "6b0414a54e7092bc8f185be5_avatar-6.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6ae069526c7d845d6cbaaf28/6b0414a54e7092bc8f185be5_avatar-6.webp",
+    "licenseStatus": "reference-mode-template-cdn",
+    "verificationStatus": "verified-http-200",
+    "notes": "TemplateFlow Webflow template asset; production use requires template/asset license verification (Geist/Inter OFL, Unsplash/Freepik/Flaticon per /licenses)."
+  }
+]

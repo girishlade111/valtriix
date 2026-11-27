@@ -1,0 +1,372 @@
+[
+  {
+    "id": "route-home",
+    "referenceUrl": "https://valtriix.webflow.io/",
+    "canonicalUrl": null,
+    "localPath": "/",
+    "title": "Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaef6",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-404",
+    "referenceUrl": "https://valtriix.webflow.io/404",
+    "canonicalUrl": null,
+    "localPath": "/404",
+    "title": "Not Found - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaef8",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog",
+    "referenceUrl": "https://valtriix.webflow.io/blog",
+    "canonicalUrl": null,
+    "localPath": "/blog",
+    "title": "Blog - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaefd",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-5-investment-strategies-for-a-stronger-financial-future",
+    "referenceUrl": "https://valtriix.webflow.io/blog/5-investment-strategies-for-a-stronger-financial-future",
+    "canonicalUrl": null,
+    "localPath": "/blog/5-investment-strategies-for-a-stronger-financial-future",
+    "title": "5 Investment strategies for a stronger financial future",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-common-investment-mistakes-and-how-to-avoid-them",
+    "referenceUrl": "https://valtriix.webflow.io/blog/common-investment-mistakes-and-how-to-avoid-them",
+    "canonicalUrl": null,
+    "localPath": "/blog/common-investment-mistakes-and-how-to-avoid-them",
+    "title": "Common investment mistakes and how to avoid them",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-how-business-owners-can-grow-their-wealth",
+    "referenceUrl": "https://valtriix.webflow.io/blog/how-business-owners-can-grow-their-wealth",
+    "canonicalUrl": null,
+    "localPath": "/blog/how-business-owners-can-grow-their-wealth",
+    "title": "How business owners can grow their wealth",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-making-better-financial-decisions-with-confidence",
+    "referenceUrl": "https://valtriix.webflow.io/blog/making-better-financial-decisions-with-confidence",
+    "canonicalUrl": null,
+    "localPath": "/blog/making-better-financial-decisions-with-confidence",
+    "title": "Making better financial decisions with confidence",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-making-smarter-financial-decisions-at-every-stage",
+    "referenceUrl": "https://valtriix.webflow.io/blog/making-smarter-financial-decisions-at-every-stage",
+    "canonicalUrl": null,
+    "localPath": "/blog/making-smarter-financial-decisions-at-every-stage",
+    "title": "Making smarter financial decisions at every stage",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-navigating-market-uncertainty-with-a-clear-strategy",
+    "referenceUrl": "https://valtriix.webflow.io/blog/navigating-market-uncertainty-with-a-clear-strategy",
+    "canonicalUrl": null,
+    "localPath": "/blog/navigating-market-uncertainty-with-a-clear-strategy",
+    "title": "Navigating market uncertainty with a clear strategy",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-the-power-of-starting-your-investment-journey-early",
+    "referenceUrl": "https://valtriix.webflow.io/blog/the-power-of-starting-your-investment-journey-early",
+    "canonicalUrl": null,
+    "localPath": "/blog/the-power-of-starting-your-investment-journey-early",
+    "title": "The power of starting your investment journey early",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-understanding-market-trends-before-you-invest",
+    "referenceUrl": "https://valtriix.webflow.io/blog/understanding-market-trends-before-you-invest",
+    "canonicalUrl": null,
+    "localPath": "/blog/understanding-market-trends-before-you-invest",
+    "title": "Understanding market trends before you invest",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-what-every-investor-should-know-about-market-trends",
+    "referenceUrl": "https://valtriix.webflow.io/blog/what-every-investor-should-know-about-market-trends",
+    "canonicalUrl": null,
+    "localPath": "/blog/what-every-investor-should-know-about-market-trends",
+    "title": "What every investor should know about market trends",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-blog-why-diversification-matters-in-your-investment-portfolio",
+    "referenceUrl": "https://valtriix.webflow.io/blog/why-diversification-matters-in-your-investment-portfolio",
+    "canonicalUrl": null,
+    "localPath": "/blog/why-diversification-matters-in-your-investment-portfolio",
+    "title": "Why diversification matters in your investment portfolio",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf03",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-case-study",
+    "referenceUrl": "https://valtriix.webflow.io/case-study",
+    "canonicalUrl": null,
+    "localPath": "/case-study",
+    "title": "Case Study - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf07",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-case-study-building-a-clear-strategy-for-lasting-wealth",
+    "referenceUrl": "https://valtriix.webflow.io/case-study/building-a-clear-strategy-for-lasting-wealth",
+    "canonicalUrl": null,
+    "localPath": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+    "title": "Building a Clear Strategy for Lasting Wealth",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf0c",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-case-study-creating-smarter-investment-plans-for-families",
+    "referenceUrl": "https://valtriix.webflow.io/case-study/creating-smarter-investment-plans-for-families",
+    "canonicalUrl": null,
+    "localPath": "/case-study/creating-smarter-investment-plans-for-families",
+    "title": "Creating Smarter Investment Plans for Families",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf0c",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-case-study-helping-businesses-improve-financial-performance",
+    "referenceUrl": "https://valtriix.webflow.io/case-study/helping-businesses-improve-financial-performance",
+    "canonicalUrl": null,
+    "localPath": "/case-study/helping-businesses-improve-financial-performance",
+    "title": "Helping Businesses Improve Financial Performance",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf0c",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-case-study-helping-clients-grow-their-wealth",
+    "referenceUrl": "https://valtriix.webflow.io/case-study/helping-clients-grow-their-wealth",
+    "canonicalUrl": null,
+    "localPath": "/case-study/helping-clients-grow-their-wealth",
+    "title": "Helping clients grow their wealth",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf0c",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-changelog",
+    "referenceUrl": "https://valtriix.webflow.io/changelog",
+    "canonicalUrl": null,
+    "localPath": "/changelog",
+    "title": "Changelog - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaefa",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-company",
+    "referenceUrl": "https://valtriix.webflow.io/company",
+    "canonicalUrl": null,
+    "localPath": "/company",
+    "title": "Company - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf00",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-contact",
+    "referenceUrl": "https://valtriix.webflow.io/contact",
+    "canonicalUrl": null,
+    "localPath": "/contact",
+    "title": "Contact - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf01",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-instructions",
+    "referenceUrl": "https://valtriix.webflow.io/instructions",
+    "canonicalUrl": null,
+    "localPath": "/instructions",
+    "title": "Instructions - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf0d",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-licenses",
+    "referenceUrl": "https://valtriix.webflow.io/licenses",
+    "canonicalUrl": null,
+    "localPath": "/licenses",
+    "title": "Licenses - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaef9",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-our-advisors",
+    "referenceUrl": "https://valtriix.webflow.io/our-advisors",
+    "canonicalUrl": null,
+    "localPath": "/our-advisors",
+    "title": "Our Advisors - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf0a",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-privacy-policy",
+    "referenceUrl": "https://valtriix.webflow.io/privacy-policy",
+    "canonicalUrl": null,
+    "localPath": "/privacy-policy",
+    "title": "Privacy Policy - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf05",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services",
+    "referenceUrl": "https://valtriix.webflow.io/services",
+    "canonicalUrl": null,
+    "localPath": "/services",
+    "title": "Services - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaefe",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-asset-management",
+    "referenceUrl": "https://valtriix.webflow.io/services/asset-management",
+    "canonicalUrl": null,
+    "localPath": "/services/asset-management",
+    "title": "Professional Asset Management Services",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-family-wealth-management",
+    "referenceUrl": "https://valtriix.webflow.io/services/family-wealth-management",
+    "canonicalUrl": null,
+    "localPath": "/services/family-wealth-management",
+    "title": "Advanced Asset Management Solutions",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-financial-advisory",
+    "referenceUrl": "https://valtriix.webflow.io/services/financial-advisory",
+    "canonicalUrl": null,
+    "localPath": "/services/financial-advisory",
+    "title": "Expert Financial Consulting Services",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-financial-consulting",
+    "referenceUrl": "https://valtriix.webflow.io/services/financial-consulting",
+    "canonicalUrl": null,
+    "localPath": "/services/financial-consulting",
+    "title": "Personalized Financial Advisory Services",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-investment-planning",
+    "referenceUrl": "https://valtriix.webflow.io/services/investment-planning",
+    "canonicalUrl": null,
+    "localPath": "/services/investment-planning",
+    "title": "Comprehensive Financial Risk Management",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-portfolio-management",
+    "referenceUrl": "https://valtriix.webflow.io/services/portfolio-management",
+    "canonicalUrl": null,
+    "localPath": "/services/portfolio-management",
+    "title": "Strategic Portfolio Management Services",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-risk-management",
+    "referenceUrl": "https://valtriix.webflow.io/services/risk-management",
+    "canonicalUrl": null,
+    "localPath": "/services/risk-management",
+    "title": "Strategic Investment Planning Services",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-wealth-management",
+    "referenceUrl": "https://valtriix.webflow.io/services/wealth-management",
+    "canonicalUrl": null,
+    "localPath": "/services/wealth-management",
+    "title": "Long-Term Wealth Preservation Strategies",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-services-wealth-preservation",
+    "referenceUrl": "https://valtriix.webflow.io/services/wealth-preservation",
+    "canonicalUrl": null,
+    "localPath": "/services/wealth-preservation",
+    "title": "Personalized Wealth Management Services",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf09",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-style-guide",
+    "referenceUrl": "https://valtriix.webflow.io/style-guide",
+    "canonicalUrl": null,
+    "localPath": "/style-guide",
+    "title": "Styleguide - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaef7",
+    "inspectionStatus": "verified-live-dom"
+  },
+  {
+    "id": "route-terms-condition",
+    "referenceUrl": "https://valtriix.webflow.io/terms-condition",
+    "canonicalUrl": null,
+    "localPath": "/terms-condition",
+    "title": "Terms - Valtriix - Webflow HTML website template",
+    "httpStatus": 200,
+    "wfPage": "6ae069526c7d845d6cbaaf04",
+    "inspectionStatus": "verified-live-dom"
+  }
+]
