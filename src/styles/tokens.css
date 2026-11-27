@@ -1,0 +1,175 @@
+:root {
+  /* Core Valtriix Color Tokens (verified from live Webflow CSS) */
+  --_colors---colors--body-color: #f3efe7;
+  --_colors---colors--neutral-01: #fcfbf8;
+  --_colors---colors--neutral-02: #ede8de;
+  --_colors---colors--neutral-03: #3a3634;
+  --_colors---colors--neutral-04: #211e1c;
+  --_colors---colors--stroke-color: #b4b0a9;
+  --_colors---colors--theme-color-01: #2023ff;
+  --_colors---colors--theme-color-02: #e0fb00;
+  --_colors---colors--transparent: rgba(255, 255, 255, 0);
+
+  /* Semantic Color Aliases */
+  --color-page: var(--_colors---colors--body-color);
+  --color-surface: var(--_colors---colors--neutral-01);
+  --color-surface-light: var(--_colors---colors--neutral-01);
+  --color-surface-muted: var(--_colors---colors--neutral-02);
+  --color-dark: var(--_colors---colors--neutral-04);
+  --color-dark-raised: #423c38;
+  --color-dark-panel: var(--_colors---colors--neutral-03);
+  --color-heading: var(--_colors---colors--neutral-04);
+  --color-body: var(--_colors---colors--neutral-03);
+  --color-muted: #5a5550;
+  --color-inverse: var(--_colors---colors--neutral-01);
+  --color-accent: var(--_colors---colors--theme-color-02);
+  --color-accent-hover: #d4ee00;
+  --color-border: var(--_colors---colors--stroke-color);
+  --color-divider: rgba(180, 176, 169, 0.35);
+  --color-link-active: var(--_colors---colors--theme-color-01);
+  --color-footer-active: var(--_colors---colors--theme-color-02);
+  --color-error: #b91c1c;
+  --color-success: #166534;
+  --color-focus: var(--_colors---colors--theme-color-01);
+
+  /* Typography Families */
+  --font--primary-font: var(--font-inter), "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font--secondary-font: var(--font-geist), "Geist", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-primary: var(--font--primary-font);
+  --font-secondary: var(--font--secondary-font);
+
+  /* Type Scale */
+  --font-sizes--display-h1: 80px;
+  --font-sizes--h1: 64px;
+  --font-sizes--h2: 56px;
+  --font-sizes--display-h3: 40px;
+  --font-sizes--h3: 32px;
+  --font-sizes--h4: 24px;
+  --font-sizes--body-01: 20px;
+  --font-sizes--body-02: 18px;
+  --font-sizes--body-03: 16px;
+  --font-sizes--body-04: 14px;
+  --font-sizes--body-05: 12px;
+
+  /* Weights */
+  --font-weight--light: 300;
+  --font-weight--regular: 400;
+  --font-weight--medium: 500;
+  --font-weight--semibold: 600;
+  --font-weight--bold: 700;
+
+  /* Line Heights */
+  --line-height--xs: 100%;
+  --line-height--s: 105%;
+  --line-height--m: 115%;
+  --line-height--l: 130%;
+  --line-height--xl: 140%;
+  --line-height--2xl: 150%;
+  --line-height--3xl: 160%;
+
+  /* Letter Spacing */
+  --letter-spacing--3xl: -6px;
+  --letter-spacing--2xl: -3.5px;
+  --letter-spacing--xl: -1.5px;
+  --letter-spacing--l: -1px;
+  --letter-spacing--m: -0.5px;
+  --letter-spacing--s: -0.3px;
+  --letter-spacing--ls-0: 0px;
+
+  /* Layout & Container Sizes */
+  --_sizes---sizes--container-width: 1224px;
+  --_sizes---sizes--lr-padding-30: 30px;
+  --_sizes---sizes--section-contetnt-padding: 64px;
+  --_sizes---sizes--section-padding: 140px;
+  --_sizes---sizes--section-padding-sm: 120px;
+
+  /* Radii */
+  --_sizes---button--button-radius: 8px;
+  --_sizes---radius--radius-0: 0px;
+  --_sizes---radius--radius-01: 4px;
+  --_sizes---radius--radius-02: 8px;
+  --_sizes---radius--radius-03: 24px;
+  --_sizes---radius--radius-full: 100%;
+
+  /* Spacing Scale */
+  --_sizes---spacing--space-0: 0px;
+  --_sizes---spacing--space-01: 4px;
+  --_sizes---spacing--space-02: 6px;
+  --_sizes---spacing--space-03: 8px;
+  --_sizes---spacing--space-04: 10px;
+  --_sizes---spacing--space-05: 12px;
+  --_sizes---spacing--space-06: 14px;
+  --_sizes---spacing--space-07: 16px;
+  --_sizes---spacing--space-08: 18px;
+  --_sizes---spacing--space-09: 20px;
+  --_sizes---spacing--space-10: 22px;
+  --_sizes---spacing--space-11: 24px;
+  --_sizes---spacing--space-12: 26px;
+  --_sizes---spacing--space-13: 28px;
+  --_sizes---spacing--space-14: 30px;
+  --_sizes---spacing--space-15: 32px;
+  --_sizes---spacing--space-16: 36px;
+  --_sizes---spacing--space-17: 40px;
+  --_sizes---spacing--space-18: 44px;
+  --_sizes---spacing--space-19: 48px;
+  --_sizes---spacing--space-20: 50px;
+  --_sizes---spacing--space-21: 56px;
+  --_sizes---spacing--space-22: 60px;
+  --_sizes---spacing--space-23: 64px;
+  --_sizes---spacing--space-24: 70px;
+  --_sizes---spacing--space-25: 74px;
+  --_sizes---spacing--space-26: 78px;
+  --_sizes---spacing--space-27: 80px;
+  --_sizes---spacing--space-28: 95px;
+  --_sizes---spacing--space-29: 100px;
+
+  /* Semantic Layout Tokens */
+  --container-main: var(--_sizes---sizes--container-width);
+  --container-wide: 1400px;
+  --container-article: 760px;
+  --container-legal: 720px;
+  --page-gutter: var(--_sizes---sizes--lr-padding-30);
+  --section-space: var(--_sizes---sizes--section-padding);
+  --grid-gap: var(--_sizes---spacing--space-11);
+  --header-height: 77px;
+}
+
+@media screen and (max-width: 991px) {
+  :root {
+    --font-sizes--display-h1: 60px;
+    --font-sizes--h1: 48px;
+    --font-sizes--h2: 42px;
+    --font-sizes--display-h3: 32px;
+    --font-sizes--h3: 26px;
+    --font-sizes--h4: 22px;
+    --letter-spacing--2xl: -2px;
+    --_sizes---sizes--section-padding: 96px;
+    --_sizes---sizes--section-padding-sm: 80px;
+    --_sizes---sizes--lr-padding-30: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  :root {
+    --font-sizes--display-h1: 44px;
+    --font-sizes--h1: 38px;
+    --font-sizes--h2: 34px;
+    --font-sizes--display-h3: 26px;
+    --font-sizes--h3: 24px;
+    --font-sizes--h4: 20px;
+    --letter-spacing--2xl: -1.4px;
+    --letter-spacing--xl: -0.8px;
+    --_sizes---sizes--section-padding: 72px;
+    --_sizes---sizes--section-padding-sm: 64px;
+    --_sizes---sizes--lr-padding-30: 20px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  :root {
+    --font-sizes--display-h1: 38px;
+    --font-sizes--h1: 34px;
+    --font-sizes--h2: 30px;
+    --_sizes---sizes--lr-padding-30: 16px;
+  }
+}
