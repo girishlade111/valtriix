@@ -1,0 +1,441 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "80px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 47265,
+        "diffPercent": 3.65
+      }
+    },
+    {
+      "route": "/company",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 384333,
+        "diffPercent": 29.66
+      }
+    },
+    {
+      "route": "/services",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 257016,
+        "diffPercent": 19.83
+      }
+    },
+    {
+      "route": "/services/portfolio-management",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 295982,
+        "diffPercent": 22.84
+      }
+    },
+    {
+      "route": "/case-study",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 171944,
+        "diffPercent": 13.27
+      }
+    },
+    {
+      "route": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 286285,
+        "diffPercent": 22.09
+      }
+    },
+    {
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 178170,
+        "diffPercent": 13.75
+      }
+    },
+    {
+      "route": "/blog/understanding-market-trends-before-you-invest",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 263961,
+        "diffPercent": 20.37
+      }
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 38117,
+        "diffPercent": 2.94
+      }
+    },
+    {
+      "route": "/our-advisors",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 310665,
+        "diffPercent": 23.97
+      }
+    },
+    {
+      "route": "/privacy-policy",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 57340,
+        "diffPercent": 4.42
+      }
+    },
+    {
+      "route": "/terms-condition",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 56242,
+        "diffPercent": 4.34
+      }
+    },
+    {
+      "route": "/changelog",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 25479,
+        "diffPercent": 1.97
+      }
+    },
+    {
+      "route": "/licenses",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 155921,
+        "diffPercent": 12.03
+      }
+    },
+    {
+      "route": "/instructions",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 44532,
+        "diffPercent": 3.44
+      }
+    },
+    {
+      "route": "/style-guide",
+      "status": 200,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 145944,
+        "diffPercent": 11.26
+      }
+    },
+    {
+      "route": "/404",
+      "status": 404,
+      "overflow": false,
+      "brokenImgs": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 (Not Found)"
+      ],
+      "pageErrors": [],
+      "failedAssets": [],
+      "axeCriticalCount": 0,
+      "axeCritical": [],
+      "h1Font": "Inter, \"Inter Fallback\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+      "h1Size": "64px",
+      "aboveFoldDiff": {
+        "width": 1440,
+        "height": 900,
+        "diffPixels": 276635,
+        "diffPercent": 21.35
+      }
+    }
+  ],
+  "cmsExtraRoutes": [
+    {
+      "route": "/services/asset-management",
+      "status": 200
+    },
+    {
+      "route": "/services/wealth-management",
+      "status": 200
+    },
+    {
+      "route": "/services/financial-consulting",
+      "status": 200
+    },
+    {
+      "route": "/services/investment-planning",
+      "status": 200
+    },
+    {
+      "route": "/services/risk-management",
+      "status": 200
+    },
+    {
+      "route": "/services/financial-advisory",
+      "status": 200
+    },
+    {
+      "route": "/services/wealth-preservation",
+      "status": 200
+    },
+    {
+      "route": "/services/family-wealth-management",
+      "status": 200
+    },
+    {
+      "route": "/case-study/helping-clients-grow-their-wealth",
+      "status": 200
+    },
+    {
+      "route": "/case-study/helping-businesses-improve-financial-performance",
+      "status": 200
+    },
+    {
+      "route": "/case-study/creating-smarter-investment-plans-for-families",
+      "status": 200
+    },
+    {
+      "route": "/blog/making-better-financial-decisions-with-confidence",
+      "status": 200
+    },
+    {
+      "route": "/blog/what-every-investor-should-know-about-market-trends",
+      "status": 200
+    },
+    {
+      "route": "/blog/common-investment-mistakes-and-how-to-avoid-them",
+      "status": 200
+    },
+    {
+      "route": "/blog/5-investment-strategies-for-a-stronger-financial-future",
+      "status": 200
+    },
+    {
+      "route": "/blog/why-diversification-matters-in-your-investment-portfolio",
+      "status": 200
+    },
+    {
+      "route": "/blog/making-smarter-financial-decisions-at-every-stage",
+      "status": 200
+    },
+    {
+      "route": "/blog/how-business-owners-can-grow-their-wealth",
+      "status": 200
+    },
+    {
+      "route": "/blog/navigating-market-uncertainty-with-a-clear-strategy",
+      "status": 200
+    },
+    {
+      "route": "/blog/the-power-of-starting-your-investment-journey-early",
+      "status": 200
+    }
+  ],
+  "interactions": {
+    "megaMenuVisible": false,
+    "megaMenuClosed": true,
+    "app2Selected": "true",
+    "aud2Visible": true,
+    "testimonialChanged": true,
+    "contactStatus": "Local demonstration mode: enquiry validated successfully. No external advisor mailbox or CRM is connected in this environment."
+  },
+  "mobileOverflows": [
+    {
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "route": "/company",
+      "overflow": false
+    },
+    {
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "route": "/blog",
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "overflow": false
+    }
+  ]
+}
