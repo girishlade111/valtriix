@@ -1,0 +1,33 @@
+.headRow {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 24px;
+  margin-bottom: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--_sizes---spacing--space-11);
+}
+
+@media screen and (max-width: 991px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .headRow {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 32px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

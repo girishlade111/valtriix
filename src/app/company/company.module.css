@@ -1,0 +1,313 @@
+.heroSection {
+  padding: var(--_sizes---spacing--space-25) var(--_sizes---sizes--lr-padding-30)
+    var(--_sizes---sizes--section-padding);
+}
+
+.heroIntro {
+  max-width: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--_sizes---spacing--space-05);
+  margin-bottom: 48px;
+}
+
+.heroSub {
+  max-width: 560px;
+}
+
+.heroMediaGrid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: var(--_sizes---spacing--space-11);
+}
+
+.heroLeftImgWrap {
+  position: relative;
+  min-height: 440px;
+  overflow: hidden;
+}
+
+.heroRightCard {
+  position: relative;
+  min-height: 440px;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  padding: var(--_sizes---spacing--space-11);
+}
+
+.coverImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.quoteOverlayBox {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  padding: var(--_sizes---spacing--space-11);
+  background-color: rgba(20, 17, 15, 0.56);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(252, 251, 248, 0.16);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.quoteText {
+  color: var(--_colors---colors--neutral-01);
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-02);
+  line-height: 1.5;
+}
+
+.quoteAuthor {
+  padding-top: 12px;
+  border-top: 1px solid rgba(252, 251, 248, 0.16);
+  font-size: var(--font-sizes--body-04);
+  color: rgba(252, 251, 248, 0.78);
+}
+
+/* Trusted Clients Logo Strip */
+.trustSection {
+  padding: 0 var(--_sizes---sizes--lr-padding-30) var(--_sizes---sizes--section-padding);
+}
+
+.trustLabel {
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-01);
+  font-weight: var(--font-weight--medium);
+  text-align: center;
+  margin: 0 auto 48px;
+  color: var(--_colors---colors--neutral-04);
+}
+
+.logosRow {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
+
+.logoDark {
+  height: 30px;
+  width: auto;
+  filter: brightness(0);
+}
+
+/* Our Story */
+.storyGrid {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: var(--_sizes---spacing--space-17);
+}
+
+.storyImgWrap {
+  position: relative;
+  width: 100%;
+  max-width: 580px;
+  min-height: 580px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.storyRight {
+  flex: 1 1 auto;
+  max-width: 560px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 80px;
+}
+
+.storyHead {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.storyParas {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Core Values */
+.valuesGrid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--_sizes---spacing--space-11);
+  margin-top: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.valueCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-15);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 120px;
+}
+
+.valueTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h4);
+  margin-bottom: 10px;
+}
+
+/* Careers */
+.careerList {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.careerRow {
+  width: 100%;
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-11) var(--_sizes---spacing--space-15);
+  display: grid;
+  grid-template-columns: 1.4fr 1fr auto auto;
+  align-items: center;
+  gap: 24px;
+  transition: background-color 0.2s ease;
+}
+
+.careerRow:hover {
+  background-color: var(--_colors---colors--neutral-02);
+}
+
+.careerTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-02);
+  font-weight: var(--font-weight--medium);
+  color: var(--_colors---colors--neutral-04);
+}
+
+.careerMeta {
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--neutral-03);
+}
+
+/* Advisors Groups */
+.groupWrap {
+  width: 100%;
+  margin-top: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.groupHeading {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h4);
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--_colors---colors--stroke-color);
+  margin-bottom: 28px;
+}
+
+.teamGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--_sizes---spacing--space-11);
+}
+
+/* Reviews */
+.reviewsGrid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--_sizes---spacing--space-11);
+  margin-top: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.reviewCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-15);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--_sizes---spacing--space-19);
+}
+
+.starsRow {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 16px;
+}
+
+.reviewAuthorRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.reviewAuthor {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-04);
+  font-weight: var(--font-weight--medium);
+  color: var(--_colors---colors--neutral-04);
+}
+
+.reviewRole {
+  font-size: var(--font-sizes--body-05);
+  color: var(--_colors---colors--neutral-03);
+}
+
+@media screen and (max-width: 991px) {
+  .heroMediaGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .storyGrid {
+    flex-direction: column;
+  }
+
+  .storyImgWrap {
+    max-width: none;
+    min-height: 440px;
+  }
+
+  .storyRight {
+    max-width: none;
+    gap: 36px;
+  }
+
+  .valuesGrid,
+  .reviewsGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .teamGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .careerRow {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .valuesGrid,
+  .reviewsGrid,
+  .teamGrid,
+  .careerRow {
+    grid-template-columns: 1fr;
+  }
+}
