@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef, useState } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
@@ -21,21 +21,30 @@ export function SiteHeader({ variant = "light" }: SiteHeaderProps) {
   const [scrolled, setScrolled] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
   const closeTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const hoverOpenedAtRef = useRef<number>(0);
 
   const dropdownOpen = dropdownPath === pathname;
   const mobileOpen = mobilePath === pathname;
-  const setDropdownOpen = (open: boolean | ((prev: boolean) => boolean)) => {
-    setDropdownPath((prev) => {
-      const next = typeof open === "function" ? open(prev === pathname) : open;
-      return next ? pathname : null;
-    });
-  };
-  const setMobileOpen = (open: boolean | ((prev: boolean) => boolean)) => {
-    setMobilePath((prev) => {
-      const next = typeof open === "function" ? open(prev === pathname) : open;
-      return next ? pathname : null;
-    });
-  };
+
+  const setDropdownOpen = useCallback(
+    (open: boolean | ((prev: boolean) => boolean)) => {
+      setDropdownPath((prev) => {
+        const next = typeof open === "function" ? open(prev === pathname) : open;
+        return next ? pathname : null;
+      });
+    },
+    [pathname]
+  );
+
+  const setMobileOpen = useCallback(
+    (open: boolean | ((prev: boolean) => boolean)) => {
+      setMobilePath((prev) => {
+        const next = typeof open === "function" ? open(prev === pathname) : open;
+        return next ? pathname : null;
+      });
+    },
+    [pathname]
+  );
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -63,11 +72,21 @@ export function SiteHeader({ variant = "light" }: SiteHeaderProps) {
       document.removeEventListener("keydown", onKeyDown);
       document.removeEventListener("mousedown", onClickOutside);
     };
-  }, []);
+  }, [setDropdownOpen, setMobileOpen]);
 
   const openMenu = () => {
     if (closeTimeoutRef.current) clearTimeout(closeTimeoutRef.current);
+    if (!dropdownOpen) {
+      hoverOpenedAtRef.current = Date.now();
+    }
     setDropdownOpen(true);
+  };
+
+  const handleToggleClick = () => {
+    if (dropdownOpen && Date.now() - hoverOpenedAtRef.current < 350) {
+      return;
+    }
+    setDropdownOpen((prev) => !prev);
   };
 
   const scheduleCloseMenu = () => {
@@ -101,7 +120,7 @@ export function SiteHeader({ variant = "light" }: SiteHeaderProps) {
               aria-expanded={dropdownOpen}
               aria-haspopup="menu"
               aria-controls="all-pages-mega-menu"
-              onClick={() => setDropdownOpen((prev) => !prev)}
+              onClick={handleToggleClick}
             >
               <span>All Pages</span>
               <svg
