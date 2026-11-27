@@ -1,0 +1,79 @@
+.ctaSection {
+  position: relative;
+  z-index: 1;
+  padding: 140px var(--_sizes---sizes--lr-padding-30);
+  overflow: hidden;
+  min-height: 553px;
+  display: flex;
+  align-items: center;
+}
+
+.ctaBgImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 65% center;
+  z-index: -2;
+}
+
+.ctaLeftOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 68%;
+  height: 100%;
+  background-image: linear-gradient(-90deg, rgba(48, 41, 35, 0), #302923);
+  z-index: -1;
+}
+
+.ctaBottomOverlay {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(90deg, #211e1c, rgba(33, 30, 28, 0) 69.68%);
+  z-index: -1;
+}
+
+.ctaContent {
+  width: 100%;
+  max-width: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--_sizes---spacing--space-07);
+}
+
+.ctaTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h2);
+  line-height: var(--line-height--m);
+  font-weight: var(--font-weight--regular);
+  letter-spacing: var(--letter-spacing--2xl);
+  color: var(--_colors---colors--neutral-01);
+}
+
+.ctaParagraph {
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-03);
+  line-height: var(--line-height--3xl);
+  color: rgba(252, 251, 248, 0.78);
+  max-width: 420px;
+}
+
+@media screen and (max-width: 767px) {
+  .ctaSection {
+    padding: 96px var(--_sizes---sizes--lr-padding-30);
+    min-height: 440px;
+  }
+
+  .ctaBgImage {
+    object-position: 75% center;
+  }
+
+  .ctaLeftOverlay {
+    width: 100%;
+  }
+}
