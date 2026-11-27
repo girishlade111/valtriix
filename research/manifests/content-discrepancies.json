@@ -1,0 +1,51 @@
+[
+  {
+    "id": "disc-01",
+    "route": "global",
+    "observed": "Initial research tally was 29/30; live Chromium DOM crawl established 37 HTTP-200 routes including /our-advisors, /instructions, /style-guide, 9 service detail pages, and 10 blog article pages.",
+    "referenceModeHandling": "All 37 verified routes implemented and tested.",
+    "productionModeCorrection": "Remove template utility pages (/instructions, /style-guide, /changelog) before public production launch."
+  },
+  {
+    "id": "disc-02",
+    "route": "/",
+    "observed": "Hidden .hero-title-block (display: none) contains 'Smarter financial guidance / AI-powered / by intelligent'; visible H1 is 'Discover a better way to invest'.",
+    "referenceModeHandling": "Rendered only the visible verified H1; did not stack hidden template headings.",
+    "productionModeCorrection": "N/A"
+  },
+  {
+    "id": "disc-03",
+    "route": "/case-study/building-a-clear-strategy-for-lasting-wealth",
+    "observed": "Hero metrics strip shows +28% while Key Results body states 32%, and all 4 case studies share the same 42-year-old business owner narrative.",
+    "referenceModeHandling": "Preserved exact template figures and text in reference mode.",
+    "productionModeCorrection": "Replace with distinct audited client engagements and verified disclosures."
+  },
+  {
+    "id": "disc-04",
+    "route": "/company",
+    "observed": "Several review cards spell the brand 'Veltrix', stats conflict ($2.5B+ vs $2.5T+, 1,200+ vs 25,000+), and Victoria Hayes role references 'Carlyle AlpInvest'.",
+    "referenceModeHandling": "Preserved exact reference copy.",
+    "productionModeCorrection": "Replace with approved brand copy, audited metrics, and verified team bios."
+  },
+  {
+    "id": "disc-05",
+    "route": "/contact",
+    "observed": "US office lists Richardson, California with a +61 prefix phone number, and the map artwork depicts Brooklyn, NY.",
+    "referenceModeHandling": "Preserved exact reference office fixture and map asset.",
+    "productionModeCorrection": "Update with verified office addresses, phone numbers, and matching licensed map."
+  },
+  {
+    "id": "disc-06",
+    "route": "/changelog",
+    "observed": "Changelog entries are dated May-July 2027 and describe AI marketing workflows rather than wealth management.",
+    "referenceModeHandling": "Preserved exact template changelog records including repeated v2.6.0.",
+    "productionModeCorrection": "Replace with actual release history or remove."
+  },
+  {
+    "id": "disc-07",
+    "route": "/instructions",
+    "observed": "Instructions subtitle states 'Thank you for choosing Vanlo.'",
+    "referenceModeHandling": "Preserved exact live text in reference mode.",
+    "productionModeCorrection": "Remove template documentation route before public deployment."
+  }
+]

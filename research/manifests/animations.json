@@ -1,0 +1,50 @@
+[
+  {
+    "id": "anim-cta-button-slide",
+    "componentId": "ActionButton",
+    "referenceRoutes": ["*"],
+    "technology": "CSS transitions",
+    "trigger": "hover",
+    "durationMs": 320,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "reducedMotionBehavior": "instant state transition",
+    "implementationPath": "src/styles/globals.css",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "anim-hero-marquee",
+    "componentId": "AmberHero",
+    "referenceRoutes": ["/"],
+    "technology": "CSS keyframe animation",
+    "trigger": "load",
+    "durationMs": 28000,
+    "easing": "linear",
+    "repeat": "infinite",
+    "reducedMotionBehavior": "paused under prefers-reduced-motion",
+    "implementationPath": "src/components/heroes/AmberHero.module.css",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "anim-case-study-hover-reveal",
+    "componentId": "ArchitecturalShowcaseAndCases",
+    "referenceRoutes": ["/"],
+    "technology": "CSS opacity transition",
+    "trigger": "hover / focus-visible",
+    "durationMs": 350,
+    "easing": "ease",
+    "responsiveVariants": ["mobile <= 767px displays back card by default"],
+    "implementationPath": "src/components/video/ArchitecturalShowcaseAndCases.module.css",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "anim-service-card-scale",
+    "componentId": "ServiceImageCard",
+    "referenceRoutes": ["/", "/services"],
+    "technology": "CSS transform scale(1.05)",
+    "trigger": "hover",
+    "durationMs": 550,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "implementationPath": "src/components/services/ServiceImageCard.module.css",
+    "verificationStatus": "verified"
+  }
+]

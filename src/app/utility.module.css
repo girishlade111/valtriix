@@ -1,0 +1,265 @@
+.section {
+  padding: var(--_sizes---spacing--space-25) var(--_sizes---sizes--lr-padding-30)
+    var(--_sizes---sizes--section-padding);
+}
+
+.centerHead {
+  max-width: 720px;
+  margin: 0 auto 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--_sizes---spacing--space-04);
+}
+
+.subDesc {
+  max-width: 520px;
+}
+
+/* Changelog */
+.changelogList {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--_sizes---spacing--space-11);
+}
+
+.changelogCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-17);
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: var(--_sizes---spacing--space-15);
+}
+
+.version {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-01);
+  font-weight: var(--font-weight--medium);
+  color: var(--_colors---colors--neutral-04);
+}
+
+.date {
+  font-size: var(--font-sizes--body-05);
+  color: var(--_colors---colors--neutral-03);
+  margin-top: 4px;
+}
+
+.clBody {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.clTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h3);
+  letter-spacing: -1px;
+}
+
+.whatsNew {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-01);
+  font-weight: var(--font-weight--medium);
+  color: var(--_colors---colors--neutral-04);
+  margin-top: 8px;
+}
+
+.featureList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.featureItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--neutral-03);
+}
+
+/* Licenses */
+.licenseGrid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--_sizes---spacing--space-11);
+}
+
+.licenseCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-17);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 14px;
+}
+
+.licenseLinks {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.licenseLink {
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--neutral-03);
+}
+
+.licenseLink:hover {
+  color: var(--_colors---colors--theme-color-01);
+  text-decoration: underline;
+}
+
+/* Instructions */
+.docLayout {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: var(--_sizes---spacing--space-17);
+  align-items: start;
+}
+
+.tocCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-11);
+  position: sticky;
+  top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.tocTitle {
+  font-size: var(--font-sizes--body-05);
+  font-weight: var(--font-weight--semibold);
+  text-transform: uppercase;
+  color: var(--_colors---colors--neutral-04);
+  margin-bottom: 4px;
+}
+
+.docCards {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.docCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-15);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.docHead {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-01);
+  font-weight: var(--font-weight--medium);
+  color: var(--_colors---colors--neutral-04);
+}
+
+.docBullets {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--neutral-03);
+}
+
+/* Styleguide */
+.sgSection {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.sgRow {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.sgLabel {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h4);
+  color: var(--_colors---colors--neutral-04);
+}
+
+.sgPanel {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-11);
+}
+
+.swatchGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.swatch {
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-sizes--body-04);
+  font-weight: var(--font-weight--medium);
+}
+
+.typeStack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.btnRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* 404 */
+.notFoundWrap {
+  min-height: 540px;
+  padding: 120px var(--_sizes---sizes--lr-padding-30) 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+}
+
+.notFoundSub {
+  color: var(--_colors---colors--neutral-03);
+  margin-bottom: 8px;
+}
+
+@media screen and (max-width: 991px) {
+  .changelogCard,
+  .docLayout,
+  .sgRow {
+    grid-template-columns: 1fr;
+  }
+
+  .tocCard {
+    position: static;
+  }
+
+  .licenseGrid,
+  .swatchGrid {
+    grid-template-columns: 1fr;
+  }
+}
