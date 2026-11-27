@@ -1,0 +1,1387 @@
+{
+  "company_hero_quote": "",
+  "company_sections": [
+    {
+      "cls": "banner-section _02",
+      "imgs": [
+        "img-4.webp",
+        "img-6.webp"
+      ],
+      "texts": [
+        "About our company",
+        "At Valtriix, we believe wealth management should be about more than numbers. It's about understanding your ambitions, supporting your decisions"
+      ]
+    },
+    {
+      "cls": "brand-logo-section padding-bottom-sm",
+      "imgs": [
+        "brand-logo-1.svg",
+        "brand-logo-2.svg",
+        "brand-logo-3.svg",
+        "brand-logo-4.svg",
+        "brand-logo-5.svg",
+        "brand-logo-6.svg",
+        "brand-logo-1.svg",
+        "brand-logo-2.svg",
+        "brand-logo-3.svg",
+        "brand-logo-4.svg",
+        "brand-logo-5.svg",
+        "brand-logo-6.svg"
+      ],
+      "texts": []
+    },
+    {
+      "cls": "our-story-section padding-bottom",
+      "imgs": [
+        "img-5.webp"
+      ],
+      "texts": [
+        "Helping you to build wealth since 2002",
+        "Since 2002, we've believed that wealth management should start with people, not numbers. What began with a simple vision—to make financial guidance more personal and meaningful—has grown into a commitment to helping individuals, families, and businesses plan for a brighter financial future",
+        "Over the years, our approach has remained the same: listen carefully, understand what matters most, and create strategies around each client's unique goals. We believe lasting relationships are built on trust, honest guidance",
+        "Assets Under Management",
+        "Clients Served",
+        "Years of Experience",
+        "Client Retention Rate"
+      ]
+    },
+    {
+      "cls": "our-value-section padding-bottom",
+      "imgs": [
+        "icon-1.svg",
+        "2f49e18bb66f0adf125ddffe130b9c82_icon-2.svg",
+        "47d8f6d4610946f25bc8b4a32f326523_icon-3.svg"
+      ],
+      "texts": [
+        "The values behind everything we do",
+        "We believe every strong relationship starts with trust. Through honest communication and clear guidance",
+        "Your goals always come first. We listen carefully, ask the right questions, and build advice most to you.",
+        "We act with honesty and put your interests at the center of every decision, building trust, confidence, and lasting relationships."
+      ]
+    },
+    {
+      "cls": "why-choose-us-section-01 padding-sm",
+      "imgs": [
+        "img-2.webp"
+      ],
+      "texts": [
+        "The right partner for your wealth",
+        "We combine personalized guidance, trusted expertise, and thoughtful strategies help you grow your wealth & achieve your financial goals with confidence",
+        "Countries Served",
+        "Assets Management"
+      ]
+    },
+    {
+      "cls": "career-section padding-top-sm",
+      "imgs": [
+        "arrow-right.svg",
+        "arrow-right.svg",
+        "arrow-right.svg",
+        "arrow-right.svg",
+        "arrow-right.svg"
+      ],
+      "texts": [
+        "Open positions",
+        "Senior UI/UX Designer New York, NY $4500 - $5000",
+        "Product Manager San Francisco, CA $7000 - $8500",
+        "Front-End Developer Austin, TX $4000 - $4800",
+        "Data Scientist Seattle, WA $6000 - $7500",
+        "Marketing Specialist Chicago, IL $3500 - $4200"
+      ]
+    },
+    {
+      "cls": "advisors-section-01",
+      "imgs": [
+        "advisors-1.webp",
+        "x-dark.svg",
+        "advisors-2.webp",
+        "x-dark.svg",
+        "advisors-3.webp",
+        "x-dark.svg",
+        "advisors-4.webp",
+        "x-dark.svg",
+        "advisors-8.webp",
+        "x-dark.svg",
+        "advisors-9.webp",
+        "x-dark.svg",
+        "advisors-10.webp",
+        "x-dark.svg"
+      ],
+      "texts": [
+        "Helping your wealth grow over time",
+        "Partner, Chief Executive Officer and Director",
+        "Partner, Co-Founder and Co-Chairman",
+        "Partner, Co-Founder and Chairman Emeritus",
+        "Director",
+        "Partner, Chief Executive Officer and Director",
+        "Partner, North America Head of Client Business",
+        "Partner, Global Head of Carlyle AlpInvest"
+      ]
+    },
+    {
+      "cls": "review-section padding-bottom",
+      "imgs": [
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "avatar-3.webp",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "avatar-5.webp",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "avatar-1.webp",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "avatar-6.webp",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "avatar-2.webp",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "star.svg",
+        "avatar-4.webp"
+      ],
+      "texts": [
+        "Trusted by thousands clients"
+      ]
+    },
+    {
+      "cls": "faq-section",
+      "imgs": [
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "texts": [
+        "Got Questions?",
+        "How can Valtriix help me grow my wealth? We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+        "How can Valtriix help me grow my wealth?",
+        "We help you explore investment opportunities and build a strategy that aligns with your financial goals",
+        "How much do I need to start investing? Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+        "How much do I need to start investing?",
+        "Mutual funds and ETFs: often $1 to $100 in many countries. Some platforms allow tiny amounts or fractional shares.",
+        "How do you create a financial plan? Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,",
+        "How do you create a financial plan?",
+        "Match investments to each goal’s time frame and your comfort with risk. Short-term money usually belongs in safer places,",
+        "Can I update my investment strategy over time? Yes, and you should. A good investment strategy is not set once and left alone. It should change as your life and the markets change.",
+        "Can I update my investment strategy over time?",
+        "Yes, and you should. A good investment strategy is not set once and left alone. It should change as your life and the markets change."
+      ]
+    }
+  ],
+  "advisors_groups": [
+    {
+      "heading": "",
+      "cards": [
+        {
+          "img": "advisors-8.webp",
+          "texts": [
+            "Benjamin Hayes",
+            "Partner, Chief Executive Officer and Director"
+          ]
+        },
+        {
+          "img": "advisors-9.webp",
+          "texts": [
+            "Emily Collins",
+            "Partner, North America Head of Client Business"
+          ]
+        },
+        {
+          "img": "advisors-10.webp",
+          "texts": [
+            "Victoria Hayes",
+            "Partner, Global Head of Carlyle AlpInvest"
+          ]
+        },
+        {
+          "img": "advisors-11.webp",
+          "texts": [
+            "Natalie Foster",
+            "Partner, Co-Head of Americas Corporate Private Equity"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "",
+      "cards": [
+        {
+          "img": "advisors-12.webp",
+          "texts": [
+            "Nathan Brooks",
+            "Partner and Vice Chairman, Global Affairs"
+          ]
+        },
+        {
+          "img": "advisors-13.webp",
+          "texts": [
+            "Emma Sullivan",
+            "Partner, Chairman and Co-Head of Carlyle Japan"
+          ]
+        },
+        {
+          "img": "advisors-14.webp",
+          "texts": [
+            "Christopher Reed",
+            "Partner, Co-Head of Americas Corporate Private Equity"
+          ]
+        }
+      ]
+    }
+  ],
+  "blog_featured": {
+    "href": "/blog/understanding-market-trends-before-you-invest",
+    "img": "blog-1.webp",
+    "texts": [
+      "Investing October 30, 2026 Understanding market trends before you invest Understanding market trends helps you make informed investment decisions, manage risks, and find opportunities to grow your wealth with greater confidence. Read More Read More",
+      "Investing October 30, 2026 Understanding market trends before you invest",
+      "Investing October 30, 2026",
+      "Investing",
+      "Investing",
+      "October 30, 2026",
+      "October 30, 2026",
+      "Understanding market trends before you invest",
+      "Understanding market trends helps you make informed investment decisions, manage risks, and find opportunities to grow your wealth with greater confidence. Read More Read More",
+      "Understanding market trends helps you make informed investment decisions, manage risks, and find opportunities to grow your wealth with greater confidence.",
+      "Read More Read More",
+      "Read More Read More"
+    ]
+  },
+  "blog_grid": [
+    {
+      "href": null,
+      "img": "blog-2.webp",
+      "texts": [
+        "Making better financial decisions with confidence",
+        "Investing",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-3.webp",
+      "texts": [
+        "What every investor should know about market trends",
+        "Market Insights",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-4.webp",
+      "texts": [
+        "Common investment mistakes and how to avoid them",
+        "Risk Management",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-5.webp",
+      "texts": [
+        "5 Investment strategies for a stronger financial future",
+        "Investing",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-6.webp",
+      "texts": [
+        "Why diversification matters in your investment portfolio",
+        "Market Insights",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-7.webp",
+      "texts": [
+        "Making smarter financial decisions at every stage",
+        "Risk Management",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-8.webp",
+      "texts": [
+        "How business owners can grow their wealth",
+        "Investing",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-9.webp",
+      "texts": [
+        "Navigating market uncertainty with a clear strategy",
+        "Market Insights",
+        "October 30, 2026"
+      ]
+    },
+    {
+      "href": null,
+      "img": "blog-10.webp",
+      "texts": [
+        "The power of starting your investment journey early",
+        "Risk Management",
+        "October 30, 2026"
+      ]
+    }
+  ],
+  "blog_details": {
+    "5-investment-strategies-for-a-stronger-financial-future": {
+      "title": "5 Investment strategies for a stronger financial future",
+      "tags": [
+        "Investing",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-5.webp",
+        "user-16.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Daniel Brooks",
+      "summary": "Daniel Brooks",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "common-investment-mistakes-and-how-to-avoid-them": {
+      "title": "Common investment mistakes and how to avoid them",
+      "tags": [
+        "Risk Management",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-4.webp",
+        "user-18.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "James Anderson",
+      "summary": "James Anderson",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "how-business-owners-can-grow-their-wealth": {
+      "title": "How business owners can grow their wealth",
+      "tags": [
+        "Investing",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-8.webp",
+        "user-9.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Charlotte Wilson",
+      "summary": "Charlotte Wilson",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "making-better-financial-decisions-with-confidence": {
+      "title": "Making better financial decisions with confidence",
+      "tags": [
+        "Investing",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-2.webp",
+        "avatar-2.webp",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Daniel Brooks",
+      "summary": "Daniel Brooks",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "making-smarter-financial-decisions-at-every-stage": {
+      "title": "Making smarter financial decisions at every stage",
+      "tags": [
+        "Risk Management",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-7.webp",
+        "user-11.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Michael Turner",
+      "summary": "Michael Turner",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "navigating-market-uncertainty-with-a-clear-strategy": {
+      "title": "Navigating market uncertainty with a clear strategy",
+      "tags": [
+        "Market Insights",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-9.webp",
+        "user-6.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Ethan Mitchell",
+      "summary": "Ethan Mitchell",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "the-power-of-starting-your-investment-journey-early": {
+      "title": "The power of starting your investment journey early",
+      "tags": [
+        "Risk Management",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-10.webp",
+        "user-8.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Isabella Morgan",
+      "summary": "Isabella Morgan",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "understanding-market-trends-before-you-invest": {
+      "title": "Understanding market trends before you invest",
+      "tags": [
+        "Investing",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-1.webp",
+        "author-1.webp",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Ralph Edwards",
+      "summary": "Ralph Edwards",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "what-every-investor-should-know-about-market-trends": {
+      "title": "What every investor should know about market trends",
+      "tags": [
+        "Market Insights",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-3.webp",
+        "avatar-3.webp",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Emily Carter",
+      "summary": "Emily Carter",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    },
+    "why-diversification-matters-in-your-investment-portfolio": {
+      "title": "Why diversification matters in your investment portfolio",
+      "tags": [
+        "Market Insights",
+        "October 30, 2026"
+      ],
+      "imgs": [
+        "blog-6.webp",
+        "user-13.png",
+        "facebook.svg",
+        "x.svg",
+        "linkedin.svg",
+        "blog-detail.webp"
+      ],
+      "author": "Emily Parker",
+      "summary": "Emily Parker",
+      "body": [
+        {
+          "tag": "h4",
+          "text": "Understand your financial goals"
+        },
+        {
+          "tag": "p",
+          "text": "Before making any investment decision, take time to define what you want to achieve. Your goals may include building wealth, securing your retirement, buying property, or creating financial stability for your family. Clear priorities help you choose strategies that fit your timeline and personal circumstances"
+        },
+        {
+          "tag": "h4",
+          "text": "Know your risk tolerance"
+        },
+        {
+          "tag": "p",
+          "text": "Every investment comes with some level of risk. Understanding how much uncertainty you're comfortable with can help you build a portfolio that suits your financial situation. Consider your time horizon, income needs, and ability to handle market fluctuations before committing your money"
+        },
+        {
+          "tag": "h4",
+          "text": "Make informed investment choices"
+        },
+        {
+          "tag": "p",
+          "text": "Successful investing starts with understanding your options. Research different asset classes, review potential returns, and consider the costs involved. Avoid making decisions based solely on market headlines or short-term trends. A well-informed approach can help you stay focused on your long-term objectives"
+        },
+        {
+          "tag": "h4",
+          "text": "Build a diversified portfolio"
+        },
+        {
+          "tag": "p",
+          "text": "Diversification helps spread your investments across different asset classes, industries, and markets. Rather than relying on a single opportunity, a balanced portfolio can help manage risk and reduce the impact of poor performance in one area. The right mix depends on your goals, risk tolerance, and investment timeline"
+        },
+        {
+          "tag": "h4",
+          "text": "Stay focused on the long term"
+        },
+        {
+          "tag": "p",
+          "text": "Financial markets naturally experience periods of growth and uncertainty. Reacting emotionally to every market movement can lead to decisions that undermine your long-term plans. Regularly review your portfolio, make adjustments when your circumstances change, and remain focused on your broader financial goals"
+        },
+        {
+          "tag": "h4",
+          "text": "Seek Professional Financial Guidance"
+        },
+        {
+          "tag": "p",
+          "text": "You don't have to navigate every financial decision alone. An experienced financial adviser can help you understand your options, evaluate potential risks, and develop a strategy tailored to your needs. Professional guidance can bring clarity to complex decisions and help you move forward with a more structured plan"
+        },
+        {
+          "tag": "h4",
+          "text": "Make Your Next Financial Decision with Confidence"
+        },
+        {
+          "tag": "p",
+          "text": "Building wealth isn't about predicting every market movement or finding the perfect investment. It's about making thoughtful decisions, staying consistent, and having a strategy that evolves with your life. With a clear plan and the right support, you can take meaningful steps toward a more secure financial futureAt Valtriix, we believe informed decisions create stronger financial futures. Our approach focuses on understanding your goals, identifying opportunities, and helping you make financial choices with greater clarity and confidence"
+        }
+      ]
+    }
+  },
+  "case_study_details": {
+    "building-a-clear-strategy-for-lasting-wealth": {
+      "title": "Building a Clear Strategy for Lasting Wealth",
+      "imgs": [
+        "case-study-2.webp",
+        "case-study-details.png",
+        "avatar-2.webp"
+      ],
+      "texts": [
+        "Building a Clear Strategy for Lasting Wealth",
+        "Client Overview",
+        "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+        "The Challenge",
+        "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+        "Our Approach",
+        "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+        "The Results",
+        "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+        "Key Results",
+        "32% — Portfolio growth over 3 years",
+        "6+ — Investment categories reviewed",
+        "3 Years — Long-term investment period",
+        "Quarterly — Portfolio performance reviews",
+        "Conclusion",
+        "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success"
+      ]
+    },
+    "creating-smarter-investment-plans-for-families": {
+      "title": "Creating Smarter Investment Plans for Families",
+      "imgs": [
+        "case-study-4.webp",
+        "case-study-details.png",
+        "avatar-4.webp"
+      ],
+      "texts": [
+        "Creating Smarter Investment Plans for Families",
+        "Client Overview",
+        "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+        "The Challenge",
+        "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+        "Our Approach",
+        "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+        "The Results",
+        "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+        "Key Results",
+        "32% — Portfolio growth over 3 years",
+        "6+ — Investment categories reviewed",
+        "3 Years — Long-term investment period",
+        "Quarterly — Portfolio performance reviews",
+        "Conclusion",
+        "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success"
+      ]
+    },
+    "helping-businesses-improve-financial-performance": {
+      "title": "Helping Businesses Improve Financial Performance",
+      "imgs": [
+        "case-study-3.webp",
+        "case-study-details.png",
+        "avatar-3.webp"
+      ],
+      "texts": [
+        "Helping Businesses Improve Financial Performance",
+        "Client Overview",
+        "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+        "The Challenge",
+        "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+        "Our Approach",
+        "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+        "The Results",
+        "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+        "Key Results",
+        "32% — Portfolio growth over 3 years",
+        "6+ — Investment categories reviewed",
+        "3 Years — Long-term investment period",
+        "Quarterly — Portfolio performance reviews",
+        "Conclusion",
+        "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success"
+      ]
+    },
+    "helping-clients-grow-their-wealth": {
+      "title": "Helping clients grow their wealth",
+      "imgs": [
+        "case-study-1.webp",
+        "case-study-details.png",
+        "avatar-1.png"
+      ],
+      "texts": [
+        "Helping clients grow their wealth",
+        "Client Overview",
+        "Our client, a 42-year-old business owner, wanted to grow personal wealth while balancing business commitments and long-term family goals. They needed a clear investment strategy that offered growth opportunities without taking unnecessary risks",
+        "The Challenge",
+        "With most of their wealth tied to business activities, the client wanted to diversify their investments and build greater financial security. They needed a structured plan to manage risk, identify suitable opportunities, and prepare for future financial needs",
+        "Our Approach",
+        "We started by reviewing the client's financial position, investment preferences, and long-term objectives. We then developed a personalized portfolio strategy focused on diversification, suitable asset allocation, and disciplined investment decisions. Regular portfolio reviews helped us assess progress and adjust the strategy as circumstances changed",
+        "The Results",
+        "Our tailored approach gave the client a clearer financial direction and a more structured way to manage their wealth. Over the illustrative three-year period, the portfolio demonstrated positive growth while remaining aligned with the client's long-term objectives",
+        "Key Results",
+        "32% — Portfolio growth over 3 years",
+        "6+ — Investment categories reviewed",
+        "3 Years — Long-term investment period",
+        "Quarterly — Portfolio performance reviews",
+        "Conclusion",
+        "With a clear strategy and expert consulting from Valtriix, the business transformed its operations, accelerated growth, and built a strong foundation for long-term success"
+      ]
+    }
+  },
+  "service_details": {
+    "asset-management": {
+      "title": "Professional Asset Management Services",
+      "subtitle": "We manage your assets with a thoughtful strategy designed to balance risk build long-term value, and grow your wealth with confidence",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-1.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "family-wealth-management": {
+      "title": "Advanced Asset Management Solutions",
+      "subtitle": "Bring your family's financial goals together with coordinated planning for investments, asset protection, and the transfer of wealth across generations.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-9.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "financial-advisory": {
+      "title": "Expert Financial Consulting Services",
+      "subtitle": "Receive personalized financial advice to navigate important decisions, organize your priorities, and build a clear path toward your future financial goals.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-7.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "financial-consulting": {
+      "title": "Personalized Financial Advisory Services",
+      "subtitle": "Get clear financial guidance tailored to your needs, with practical insights to improve decisions, plan ahead, and make the most of your resources.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-3.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "investment-planning": {
+      "title": "Comprehensive Financial Risk Management",
+      "subtitle": "Create an investment plan aligned with your goals, time horizon, and risk tolerance, helping you make informed choices for long-term financial growth.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-4.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "portfolio-management": {
+      "title": "Strategic Portfolio Management Services",
+      "subtitle": "We build and monitor diversified portfolios around your objectives, adjusting investment strategies as markets change to keep your financial goals on track.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-5.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "risk-management": {
+      "title": "Strategic Investment Planning Services",
+      "subtitle": "Identify potential financial risks and develop practical strategies to protect your assets, manage uncertainty, and support lasting financial stability.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-6.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "wealth-management": {
+      "title": "Long-Term Wealth Preservation Strategies",
+      "subtitle": "Build a personalized wealth strategy that aligns with your financial goals, supports informed decisions, and helps preserve and grow your assets over time.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-2.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    },
+    "wealth-preservation": {
+      "title": "Personalized Wealth Management Services",
+      "subtitle": "Protect the wealth you have built with thoughtful planning, risk-aware strategies, and a long-term approach to preserving assets for the future.",
+      "imgs": [
+        "corner-down-right.svg",
+        "corner-down-right.svg",
+        "service-1.webp",
+        "img-2.webp",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg",
+        "expand-icon.svg",
+        "collapse-icon.svg"
+      ],
+      "overview": "Overview At Valtriix, we take a personalized approach to managing your wealth. Our goal is to help you make informed investment decisions, manage risk, and build a portfolio that supports your long-term financial goals. With thoughtful planning and ongoing guidance, we help you navigate changing markets with greater confidence"
+    }
+  }
+}

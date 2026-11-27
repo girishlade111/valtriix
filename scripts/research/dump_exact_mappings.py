@@ -23,7 +23,7 @@ def asset_name(src):
 
 # 1. Company hero quote, core values, careers, advisors, reviews
 comp = soup_of("company")
-OUT["company_hero_quote"] = clean(comp.select_one(".company-hero-content, .hero-quote, [class*='about-hero'] p, .company-banner-section p")?.get_text(" ") if False else "")
+OUT["company_hero_quote"] = ""
 # Let's inspect all text blocks & images inside company.html sections
 OUT["company_sections"] = []
 for sec in comp.select("section"):
