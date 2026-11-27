@@ -1,0 +1,103 @@
+.section {
+  padding: var(--_sizes---spacing--space-25) var(--_sizes---sizes--lr-padding-30)
+    var(--_sizes---sizes--section-padding);
+}
+
+.headBlock {
+  max-width: 730px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--_sizes---spacing--space-04);
+  margin-bottom: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--_sizes---spacing--space-15);
+}
+
+.card {
+  width: 100%;
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-11);
+  display: grid;
+  grid-template-columns: 1.05fr 1fr;
+  gap: var(--_sizes---spacing--space-17);
+  align-items: stretch;
+}
+
+.imgWrap {
+  position: relative;
+  width: 100%;
+  min-height: 410px;
+  overflow: hidden;
+  background-color: var(--_colors---colors--neutral-02);
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.card:hover .img {
+  transform: scale(1.03);
+}
+
+.contentCol {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 8px 0;
+}
+
+.topBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.cardTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h3);
+  line-height: 1.25;
+  letter-spacing: -1px;
+  color: var(--_colors---colors--neutral-04);
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: var(--color-divider);
+  margin: 12px 0;
+}
+
+.metricValue {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--display-h3);
+  line-height: 1.1;
+  letter-spacing: -1.5px;
+  color: var(--_colors---colors--neutral-04);
+}
+
+.metricLabel {
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--neutral-03);
+  margin-top: 4px;
+}
+
+@media screen and (max-width: 991px) {
+  .card {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .imgWrap {
+    min-height: 300px;
+  }
+}

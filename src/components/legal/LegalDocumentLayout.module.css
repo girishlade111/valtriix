@@ -1,0 +1,37 @@
+.section {
+  padding: var(--_sizes---spacing--space-25) var(--_sizes---sizes--lr-padding-30)
+    var(--_sizes---sizes--section-padding);
+}
+
+.headerBlock {
+  max-width: 720px;
+  margin: 0 auto 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--_sizes---spacing--space-04);
+}
+
+.contentCol {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.docSection {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.docHeading {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h4);
+  line-height: 1.35;
+  letter-spacing: -0.6px;
+  color: var(--_colors---colors--neutral-04);
+}
