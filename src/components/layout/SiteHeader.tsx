@@ -83,7 +83,7 @@ export function SiteHeader({ variant = "light" }: SiteHeaderProps) {
   };
 
   const handleToggleClick = () => {
-    if (dropdownOpen && Date.now() - hoverOpenedAtRef.current < 350) {
+    if (Date.now() - hoverOpenedAtRef.current < 400) {
       return;
     }
     setDropdownOpen((prev) => !prev);
