@@ -1,0 +1,58 @@
+.section {
+  padding: var(--_sizes---sizes--section-padding) var(--_sizes---sizes--lr-padding-30);
+}
+
+.inner {
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--_sizes---spacing--space-11);
+}
+
+.meta {
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--neutral-03);
+}
+
+.quote {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h3);
+  line-height: 1.32;
+  letter-spacing: -1.1px;
+  color: var(--_colors---colors--neutral-04);
+  min-height: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brandWrap {
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brandLogo {
+  height: 26px;
+  width: auto;
+  filter: brightness(0);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+@media screen and (max-width: 767px) {
+  .quote {
+    min-height: 150px;
+  }
+}

@@ -1,0 +1,132 @@
+.heroSection {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  margin-top: -90px;
+  padding: 160px var(--_sizes---sizes--lr-padding-30) var(--_sizes---spacing--space-17);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  background-color: #160c06;
+}
+
+.heroBg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.heroMain {
+  width: 100%;
+  max-width: var(--_sizes---sizes--container-width);
+  margin: 0 auto;
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 72px;
+  padding-top: 24px;
+}
+
+.topBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--_sizes---spacing--space-07);
+  max-width: 620px;
+}
+
+.heroTitle {
+  font-family: var(--font--primary-font);
+  color: var(--_colors---colors--neutral-01);
+  font-size: var(--font-sizes--display-h1);
+  line-height: var(--line-height--s);
+  font-weight: var(--font-weight--regular);
+  letter-spacing: -3.2px;
+}
+
+.bottomBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--_sizes---spacing--space-11);
+  max-width: 400px;
+}
+
+.heroDesc {
+  font-family: var(--font--secondary-font);
+  color: rgba(252, 251, 248, 0.85);
+  font-size: var(--font-sizes--body-03);
+  line-height: 1.55;
+}
+
+.logosStrip {
+  width: 100%;
+  max-width: var(--_sizes---sizes--container-width);
+  margin: 48px auto 0;
+  padding-top: 28px;
+  border-top: 1px solid rgba(252, 251, 248, 0.14);
+  overflow: hidden;
+}
+
+.logosTrack {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 48px;
+  width: max-content;
+  min-width: 100%;
+  animation: heroMarquee 28s linear infinite;
+}
+
+.logosTrack:hover {
+  animation-play-state: paused;
+}
+
+@keyframes heroMarquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.logoItem {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.82;
+}
+
+.logoImg {
+  height: 28px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}
+
+@media screen and (max-width: 991px) {
+  .heroSection {
+    min-height: auto;
+    padding-top: 150px;
+  }
+
+  .heroMain {
+    gap: 48px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .heroSection {
+    padding-top: 132px;
+  }
+
+  .heroTitle {
+    letter-spacing: -1.5px;
+  }
+}

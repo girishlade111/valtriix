@@ -1,0 +1,202 @@
+.darkGradientWrapper {
+  background-image: linear-gradient(#667d66, #211e1c 42.92%);
+}
+
+.videoSection {
+  padding: var(--_sizes---sizes--section-padding-sm) var(--_sizes---sizes--lr-padding-30) 0;
+}
+
+.videoWrap {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  background-color: var(--_colors---colors--neutral-04);
+}
+
+.videoEl {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.controlBtn {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  z-index: 3;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: var(--_sizes---radius--radius-01);
+  background-color: rgba(252, 251, 248, 0.2);
+  border: 1px solid rgba(252, 251, 248, 0.28);
+  backdrop-filter: blur(12px);
+  color: var(--_colors---colors--neutral-01);
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-04);
+  font-weight: var(--font-weight--medium);
+  cursor: pointer;
+  min-height: 44px;
+  transition: background-color 0.2s ease;
+}
+
+.controlBtn:hover {
+  background-color: rgba(252, 251, 248, 0.32);
+}
+
+.statsRow {
+  width: 100%;
+  margin-top: 64px;
+}
+
+/* Case Studies on Home */
+.caseStudySection {
+  padding: var(--_sizes---sizes--section-padding) var(--_sizes---sizes--lr-padding-30);
+}
+
+.caseStudyGrid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--_sizes---spacing--space-11);
+  margin-top: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.csCard {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 470px;
+  overflow: hidden;
+  background-color: var(--color-dark-raised);
+}
+
+.csFront {
+  width: 100%;
+  height: 100%;
+  padding: var(--_sizes---spacing--space-15);
+  background-color: #423c38;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.35s ease;
+}
+
+.csFrontLogo {
+  height: 30px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}
+
+.csBack {
+  position: absolute;
+  inset: 0;
+  padding: var(--_sizes---spacing--space-15);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+
+.csCard:hover .csFront,
+.csCard:focus-visible .csFront {
+  opacity: 0;
+}
+
+.csCard:hover .csBack,
+.csCard:focus-visible .csBack {
+  opacity: 1;
+}
+
+.csBackImg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(4px) brightness(0.6);
+  transform: scale(1.06);
+  z-index: 0;
+}
+
+.csBackScrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(20, 18, 16, 0.35), rgba(20, 18, 16, 0.72));
+  z-index: 1;
+}
+
+.csBackTop,
+.csBackBottom {
+  position: relative;
+  z-index: 2;
+}
+
+.csBackBottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.csBackTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h4);
+  color: var(--_colors---colors--neutral-01);
+  letter-spacing: -0.5px;
+}
+
+.csReadPill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  border-radius: var(--_sizes---radius--radius-02);
+  background-color: rgba(252, 251, 248, 0.18);
+  border: 1px solid rgba(252, 251, 248, 0.24);
+  backdrop-filter: blur(12px);
+  color: var(--_colors---colors--neutral-01);
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-04);
+  font-weight: var(--font-weight--medium);
+}
+
+@media screen and (max-width: 991px) {
+  .videoWrap {
+    height: 500px;
+  }
+
+  .caseStudyGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .csCard {
+    height: 380px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .videoWrap {
+    height: 360px;
+  }
+
+  .caseStudyGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .csCard {
+    height: 310px;
+  }
+
+  .csFront {
+    display: none;
+  }
+
+  .csBack {
+    opacity: 1;
+  }
+}

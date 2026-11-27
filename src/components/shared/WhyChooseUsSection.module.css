@@ -1,0 +1,140 @@
+.sectionDark {
+  background-color: var(--_colors---colors--neutral-04);
+  padding: var(--_sizes---sizes--section-padding-sm) var(--_sizes---sizes--lr-padding-30);
+}
+
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: var(--_sizes---spacing--space-17);
+}
+
+.imgCol {
+  position: relative;
+  width: 100%;
+  max-width: 580px;
+  min-height: 590px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.contentCol {
+  flex: 1 1 auto;
+  max-width: 560px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--_sizes---spacing--space-17);
+}
+
+.headBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--_sizes---spacing--space-05);
+}
+
+.description {
+  max-width: 440px;
+  color: var(--_colors---colors--neutral-03);
+}
+
+.descriptionDark {
+  color: rgba(252, 251, 248, 0.72);
+}
+
+.cardsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--_sizes---spacing--space-11);
+}
+
+.featureCard {
+  background-color: var(--_colors---colors--neutral-01);
+  padding: var(--_sizes---spacing--space-07);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--_sizes---spacing--space-24);
+}
+
+.iconTile {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--_sizes---radius--radius-01);
+  background-color: var(--_colors---colors--theme-color-02);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--body-02);
+  font-weight: var(--font-weight--medium);
+  color: var(--_colors---colors--neutral-04);
+  margin-bottom: 6px;
+}
+
+.cardDesc {
+  font-size: var(--font-sizes--body-04);
+  line-height: 1.5;
+  color: var(--_colors---colors--neutral-03);
+}
+
+.metricCardDark {
+  background-color: #423c38;
+  padding: var(--_sizes---spacing--space-10) var(--_sizes---spacing--space-11);
+  display: flex;
+  flex-direction: column;
+  gap: var(--_sizes---spacing--space-15);
+}
+
+.metricValue {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h2);
+  line-height: var(--line-height--m);
+  letter-spacing: var(--letter-spacing--2xl);
+  color: var(--_colors---colors--neutral-01);
+}
+
+.metricLabel {
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-04);
+  color: var(--_colors---colors--stroke-color);
+}
+
+@media screen and (max-width: 991px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  .imgCol {
+    max-width: none;
+    min-height: 440px;
+  }
+
+  .contentCol {
+    max-width: none;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .cardsGrid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .featureCard {
+    gap: 40px;
+  }
+}

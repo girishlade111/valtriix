@@ -1,0 +1,122 @@
+.headBlock {
+  max-width: 570px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--_sizes---spacing--space-04);
+  margin-bottom: var(--_sizes---sizes--section-contetnt-padding);
+}
+
+.wrap {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 0;
+  background-color: var(--_colors---colors--neutral-01);
+}
+
+.leftPanel {
+  flex: 1 1 auto;
+  padding: var(--_sizes---spacing--space-17);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 140px;
+}
+
+.tabList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tabBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: var(--_sizes---radius--radius-01);
+  background-color: var(--_colors---colors--neutral-02);
+  color: var(--_colors---colors--neutral-04);
+  font-family: var(--font--secondary-font);
+  font-size: var(--font-sizes--body-05);
+  font-weight: var(--font-weight--medium);
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  min-height: 36px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.tabBtnActive {
+  background-color: var(--_colors---colors--theme-color-02);
+}
+
+.tabDot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: var(--_colors---colors--neutral-04);
+}
+
+.tabContent {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 440px;
+}
+
+.tabTitle {
+  font-family: var(--font--primary-font);
+  font-size: var(--font-sizes--h4);
+  line-height: var(--line-height--xl);
+  letter-spacing: -0.6px;
+  color: var(--_colors---colors--neutral-04);
+}
+
+.tabDesc {
+  color: var(--_colors---colors--neutral-03);
+}
+
+.imgWrap {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  min-height: 540px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 991px) {
+  .wrap {
+    flex-direction: column;
+  }
+
+  .leftPanel {
+    padding: var(--_sizes---spacing--space-11);
+    gap: 56px;
+  }
+
+  .imgWrap {
+    max-width: none;
+    min-height: 420px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .leftPanel {
+    padding: var(--_sizes---spacing--space-07);
+    gap: 40px;
+  }
+
+  .imgWrap {
+    min-height: 320px;
+  }
+}
