@@ -235,7 +235,11 @@ export default function CompanyPage() {
             {companyReviewsData.map((rev) => (
               <article key={rev.id} className={styles.reviewCard}>
                 <div>
-                  <div className={styles.starsRow} aria-label={`${rev.stars} out of 5 stars`}>
+                  <div
+                    className={styles.starsRow}
+                    role="img"
+                    aria-label={`${rev.stars} out of 5 stars`}
+                  >
                     {Array.from({ length: rev.stars }).map((_, idx) => (
                       <Image
                         key={idx}

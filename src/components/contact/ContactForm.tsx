@@ -191,6 +191,7 @@ export function ContactForm() {
 
         {status && (
           <div
+            data-testid="contact-form-status"
             role={status.type === "error" ? "alert" : "status"}
             aria-live="polite"
             className={`${styles.statusBox} ${

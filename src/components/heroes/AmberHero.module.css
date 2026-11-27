@@ -1,9 +1,10 @@
 .heroSection {
   position: relative;
   z-index: 1;
-  min-height: 100vh;
+  height: 100vh;
+  min-height: 760px;
   margin-top: -90px;
-  padding: 160px var(--_sizes---sizes--lr-padding-30) var(--_sizes---spacing--space-17);
+  padding: 160px var(--_sizes---sizes--lr-padding-30) var(--_sizes---spacing--space-21);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -28,8 +29,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 72px;
-  padding-top: 24px;
+  gap: 56px;
 }
 
 .topBlock {

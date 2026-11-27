@@ -44,7 +44,7 @@
   font-weight: var(--font-weight--regular);
   letter-spacing: -0.5px;
   color: var(--_colors---colors--neutral-01);
-  max-width: 240px;
+  max-width: 280px;
 }
 
 .arrowBox {

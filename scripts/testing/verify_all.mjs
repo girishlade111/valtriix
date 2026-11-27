@@ -85,7 +85,26 @@ async function run() {
 
     const resp = await page.goto(BASE_URL + item.route, { waitUntil: "networkidle" });
     await page.evaluate(() => document.fonts.ready);
-    await page.waitForTimeout(300);
+    const totalH = await page.evaluate(() => document.body.scrollHeight);
+    for (let y = 0; y <= totalH; y += 500) {
+      await page.evaluate((yy) => window.scrollTo(0, yy), y);
+      await page.waitForTimeout(120);
+    }
+    await page.evaluate(() => window.scrollTo(0, 0));
+    await page.waitForTimeout(400);
+    await page.evaluate(async () => {
+      const imgs = Array.from(document.querySelectorAll("img"));
+      await Promise.all(
+        imgs.map((img) => {
+          if (img.complete) return Promise.resolve();
+          return new Promise((res) => {
+            img.addEventListener("load", res, { once: true });
+            img.addEventListener("error", res, { once: true });
+            setTimeout(res, 2000);
+          });
+        })
+      );
+    });
 
     const metrics = await page.evaluate(() => {
       const imgs = Array.from(document.querySelectorAll("img"));
@@ -170,10 +189,39 @@ async function run() {
   await page.fill("#contact-subject", "Portfolio Review");
   await page.fill("#contact-message", "Requesting an introductory consultation.");
   await page.locator("form button[type='submit']").click();
-  await page.locator("[role='status']").waitFor({ state: "visible", timeout: 5000 });
-  const contactStatus = await page.locator("[role='status']").innerText();
+  await page.locator("[data-testid='contact-form-status']").waitFor({ state: "visible", timeout: 5000 });
+  const contactStatus = await page.locator("[data-testid='contact-form-status']").innerText();
 
-  // 3. Mobile 390x844 overflow check
+  // 3. Verify all remaining CMS detail routes return HTTP 200 with zero errors
+  const cmsExtra = [
+    "/services/asset-management",
+    "/services/wealth-management",
+    "/services/financial-consulting",
+    "/services/investment-planning",
+    "/services/risk-management",
+    "/services/financial-advisory",
+    "/services/wealth-preservation",
+    "/services/family-wealth-management",
+    "/case-study/helping-clients-grow-their-wealth",
+    "/case-study/helping-businesses-improve-financial-performance",
+    "/case-study/creating-smarter-investment-plans-for-families",
+    "/blog/making-better-financial-decisions-with-confidence",
+    "/blog/what-every-investor-should-know-about-market-trends",
+    "/blog/common-investment-mistakes-and-how-to-avoid-them",
+    "/blog/5-investment-strategies-for-a-stronger-financial-future",
+    "/blog/why-diversification-matters-in-your-investment-portfolio",
+    "/blog/making-smarter-financial-decisions-at-every-stage",
+    "/blog/how-business-owners-can-grow-their-wealth",
+    "/blog/navigating-market-uncertainty-with-a-clear-strategy",
+    "/blog/the-power-of-starting-your-investment-journey-early",
+  ];
+  const cmsResults = [];
+  for (const r of cmsExtra) {
+    const resp = await page.goto(BASE_URL + r, { waitUntil: "domcontentloaded" });
+    cmsResults.push({ route: r, status: resp?.status() });
+  }
+
+  // 4. Mobile 390x844 overflow check
   const mCtx = await browser.newContext({
     viewport: { width: 390, height: 844 },
     hasTouch: true,
@@ -192,6 +240,7 @@ async function run() {
 
   const report = {
     routes: results,
+    cmsExtraRoutes: cmsResults,
     interactions: {
       megaMenuVisible,
       megaMenuClosed,

@@ -59,10 +59,20 @@ export function ArchitecturalShowcaseAndCases() {
               )}
             </button>
 
+            {!isPlaying && (
+              <Image
+                src="/assets/images/general/video-bg-img.webp"
+                alt="Modern luxury architectural residence interior and desert landscape"
+                fill
+                sizes="(max-width: 1224px) 100vw, 1224px"
+                style={{ objectFit: "cover", zIndex: 1 }}
+              />
+            )}
+
             <video
               ref={videoRef}
               className={styles.videoEl}
-              poster="/assets/posters/1_poster.0000000.jpg"
+              poster="/assets/images/general/video-bg-img.webp"
               loop
               muted
               playsInline
