@@ -37,7 +37,14 @@ async def capture_route(page, path: str, name: str, folder: str, full_page: bool
     except Exception:
         pass
     await page.evaluate("() => document.fonts.ready")
-    await asyncio.sleep(0.8)
+    await asyncio.sleep(0.6)
+    # Scroll incrementally so ScrollTrigger/IX2 reveals trigger, then return to top
+    total_h = await page.evaluate("() => document.body.scrollHeight")
+    for y in range(0, total_h + 400, 450):
+        await page.evaluate(f"window.scrollTo(0, {y})")
+        await asyncio.sleep(0.15)
+    await page.evaluate("window.scrollTo(0, 0)")
+    await asyncio.sleep(0.6)
     await page.screenshot(path=str(out_dir / f"{name}.png"), full_page=full_page)
 
 
@@ -50,9 +57,6 @@ async def main():
         page = await ctx.new_page()
 
         for path, name in KEY_ROUTES:
-            out_file = SS_DIR / "desktop" / f"{name}.png"
-            if out_file.exists():
-                continue
             print(f"[desktop 1440] {path}", flush=True)
             await capture_route(page, path, name, "desktop", full_page=True)
 
